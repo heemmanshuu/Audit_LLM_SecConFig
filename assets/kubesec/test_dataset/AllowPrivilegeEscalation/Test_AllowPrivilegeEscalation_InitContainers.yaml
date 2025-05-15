@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+spec:
+    template:
+        spec:
+            containers:
+            -   name: c1
+            -   name: c2
+                securityContext:
+                    allowPrivilegeEscalation: false
+            -   name: c3
+                securityContext:
+                    allowPrivilegeEscalation: true
+            initContainers:
+            -   name: init1
+                securityContext:
+                    allowPrivilegeEscalation: true
+            -   name: init2
+                securityContext:
+                    allowPrivilegeEscalation: false
+            -   name: init3

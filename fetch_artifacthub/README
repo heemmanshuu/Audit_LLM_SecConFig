@@ -1,0 +1,162 @@
+# Artifacthub Package Fetcher
+
+A comprehensive tool for fetching, processing, and analyzing package data from Artifacthub.io. This project includes both Go and Python components to efficiently collect and process package information, with a focus on security scanning and YAML validation.
+
+## Project Structure
+
+### Core Components
+
+- `fetch_artifacthub.go`: Main Go program that:
+  - Fetches package data from Artifacthub API
+  - Implements proxy rotation for rate limiting
+  - Handles concurrent requests
+  - Manages error handling and retries
+
+### Python Processing Pipeline
+
+- `gather_artifacthub.py`: 
+  - Consolidates JSON data from package_data directory
+  - Sorts packages by stars and other metrics
+  - Outputs consolidated results to `gathered/raw_final_results.json`
+
+- `get_yamls.py`: 
+  - Extracts YAML configurations from `Helm` packages
+  - Uses parallel processing via joblib for improved performance
+  - Adds Helm repositories and renders templates
+  - Saves processed YAML files to `assets` directory
+
+- `clean_yamls.py`:
+  - Performs security scanning using Checkov and Terrascan
+  - Validates YAML syntax and structure
+  - Filters out invalid configurations
+  - Uses parallel processing for efficiency
+  - Outputs cleaned YAML files for further processing
+
+- `scan_and_analyse.py`:
+  - Detailed security analysis using multiple tools
+  - Generates comprehensive scan reports including:
+    - Checkov failure counts and check IDs
+    - Terrascan violation details with severity levels
+    - Policy violation summaries
+  - Outputs analysis results to `gathered` directory
+
+- `split_cleaned_yamls.py`:
+  - Splits multi-document YAML files into individual files
+  - Performs additional security validation
+  - Uses joblib for parallel processing
+  - Maintains file relationship tracking in `gathered/split_files.json`
+
+- `resort.py`: 
+  - Post-processing data organization
+  - Reorders split files to match original package order
+  - Creates both complete dataset and top 1000 subset
+  - Maintains file integrity during reordering
+
+### Directories
+- `assets/`: Downloaded package assets and YAML configurations
+- `gathered/`: Processed data including:
+  - `raw_final_results.json`: Consolidated package data
+  - `split_files.json`: File relationship tracking
+  - Analysis reports and sorted datasets
+- `package_data/`: Raw JSON data from Artifacthub API
+
+## Dependencies
+
+### Go Dependencies
+- `github.com/gocolly/colly/v2`: Web scraping framework
+- `gopkg.in/yaml.v2`: YAML parsing
+- `github.com/schollz/progressbar/v3`: Progress visualization
+
+### Python Dependencies
+- `pandas`: Data processing and CSV handling
+- `joblib`: Parallel processing
+- `pyyaml`: YAML processing
+- `tqdm`: Progress bars
+- External tools:
+  - `checkov`: Security scanning
+  - `terrascan`: Additional security validation
+
+## Configuration
+
+The project uses `config.yaml` for configuration settings including:
+- Concurrency levels
+- Rate limiting
+- Proxy settings
+- Timeout configurations
+- Data directory paths
+
+## Usage Instructions
+
+1. **Initial Data Fetch**
+   ```bash
+   go run fetch_artifacthub.go
+   ```
+   Fetches raw package data from Artifacthub.
+
+2. **Data Consolidation**
+   ```bash
+   python gather_artifacthub.py
+   ```
+   Processes and sorts package data.
+
+3. **YAML Extraction**
+   ```bash
+   python get_yamls.py
+   ```
+   Extracts YAML configurations.
+
+4. **Clean Empty Files**
+   ```bash
+   find . -maxdepth 1 -name "*.yaml" -type f -exec sh -c 'if [ $(wc -w < "$1") -eq 0 ]; then rm "$1" && echo "Deleted empty file: $1"; fi' _ {} \;
+   ```
+   Removes empty YAML files.
+
+5. **YAML Processing and Security Scanning**
+   ```bash
+   python clean_yamls.py
+   ```
+   Processes YAMLs and performs initial security checks.
+
+6. **Detailed Security Analysis**
+   ```bash
+   python scan_and_analyse.py
+   ```
+   Performs comprehensive security scanning.
+
+7. **YAML Splitting and Validation**
+   ```bash
+   python split_cleaned_yamls.py
+   ```
+   Processes multi-document YAMLs and performs final validation.
+
+## Output Files
+
+- `gathered/raw_final_results.json`: Complete dataset of processed packages
+- `gathered/final_results.json`: Top 1000 packages by stars
+- `gathered/cleaned_files.csv`: Processed and validated YAML files
+- Security scan results in JSON format for each processed file
+
+## Error Handling
+
+The system includes robust error handling for:
+- Rate limiting and API throttling
+- Network timeouts and connection issues
+- Invalid YAML syntax
+- Security scan failures
+- Proxy rotation failures
+- Parallel processing errors
+
+## Logging
+
+- Operations logged to `package_fetcher.log`
+- Includes timestamps and error details
+- Security scan results and statistics
+- Processing pipeline progress
+
+## Performance Features
+
+- Parallel processing for data gathering and analysis
+- Efficient proxy rotation for API rate management
+- Configurable concurrency levels
+- Progress tracking with tqdm
+- Optimized file I/O with pandas

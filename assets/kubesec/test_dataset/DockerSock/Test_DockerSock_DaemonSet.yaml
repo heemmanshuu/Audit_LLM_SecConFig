@@ -1,0 +1,15 @@
+apiVersion: extensions/v1beta1
+kind: DaemonSet
+spec:
+    template:
+        spec:
+            containers:
+            -   name: c1
+                volumeMounts:
+                -   mountPath: /host/var/run/docker.sock
+                    name: docker
+                    readOnly: false
+            volumes:
+            -   hostPath:
+                    path: /var/run/docker.sock
+                name: docker

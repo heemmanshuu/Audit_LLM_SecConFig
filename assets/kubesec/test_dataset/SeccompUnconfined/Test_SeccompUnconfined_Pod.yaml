@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+    annotations:
+        other: runtime/default
+        seccomp.security.alpha.kubernetes.io/pod: runtime/default
+        something: runtime/default
+spec:
+    containers:
+    -   image: sotrustworthy:latest
+        name: trustworthy-container

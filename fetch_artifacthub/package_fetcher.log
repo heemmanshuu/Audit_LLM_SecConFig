@@ -1,0 +1,1021 @@
+2024/09/13 12:07:21 fetch_artifacthub.go:203: Starting package fetcher...
+2024/09/13 12:07:26 fetch_artifacthub.go:165: Fetched and validated 5 proxies out of 3109
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:26 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:27 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=1860&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:27 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=1860&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:27 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:28 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=60&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:28 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=60&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:28 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:28 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=1920&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:28 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=1920&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:28 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:28 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=2340&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:28 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=2340&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:28 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:28 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49695
+2024/09/13 12:07:28 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_840.json
+2024/09/13 12:07:28 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:28 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 51508
+2024/09/13 12:07:28 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_480.json
+2024/09/13 12:07:28 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:28 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=540&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:28 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=540&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:28 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:28 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48999
+2024/09/13 12:07:28 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_2580.json
+2024/09/13 12:07:28 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:29 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 50341
+2024/09/13 12:07:29 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_1080.json
+2024/09/13 12:07:29 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:29 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 52602
+2024/09/13 12:07:29 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_240.json
+2024/09/13 12:07:29 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:29 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49356
+2024/09/13 12:07:29 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_780.json
+2024/09/13 12:07:29 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:29 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47944
+2024/09/13 12:07:29 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_2940.json
+2024/09/13 12:07:29 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:29 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47517
+2024/09/13 12:07:29 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_1200.json
+2024/09/13 12:07:29 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:29 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 51261
+2024/09/13 12:07:29 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_2820.json
+2024/09/13 12:07:29 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:29 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 50204
+2024/09/13 12:07:29 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_1440.json
+2024/09/13 12:07:29 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:29 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49730
+2024/09/13 12:07:29 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_720.json
+2024/09/13 12:07:29 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:29 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=1560&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:29 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=1560&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:29 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:29 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46962
+2024/09/13 12:07:29 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_2700.json
+2024/09/13 12:07:29 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:30 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 50069
+2024/09/13 12:07:30 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_1140.json
+2024/09/13 12:07:30 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:30 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 51920
+2024/09/13 12:07:30 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_420.json
+2024/09/13 12:07:30 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:30 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49843
+2024/09/13 12:07:30 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_2400.json
+2024/09/13 12:07:30 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:30 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 50154
+2024/09/13 12:07:30 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_1020.json
+2024/09/13 12:07:30 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:30 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47489
+2024/09/13 12:07:30 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_2220.json
+2024/09/13 12:07:30 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:30 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 50758
+2024/09/13 12:07:30 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_1620.json
+2024/09/13 12:07:30 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:30 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46460
+2024/09/13 12:07:30 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_2640.json
+2024/09/13 12:07:30 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:30 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48074
+2024/09/13 12:07:30 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_1320.json
+2024/09/13 12:07:30 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:30 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=1380&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:30 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=1380&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:30 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:30 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 50799
+2024/09/13 12:07:30 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_1680.json
+2024/09/13 12:07:30 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:30 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=120&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:30 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=120&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:30 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:30 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49010
+2024/09/13 12:07:30 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_2760.json
+2024/09/13 12:07:30 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:30 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 51191
+2024/09/13 12:07:30 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_660.json
+2024/09/13 12:07:30 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:31 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48900
+2024/09/13 12:07:31 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_2460.json
+2024/09/13 12:07:31 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:31 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47917
+2024/09/13 12:07:31 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_2520.json
+2024/09/13 12:07:31 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:31 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 54020
+2024/09/13 12:07:31 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_2100.json
+2024/09/13 12:07:31 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:31 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 52869
+2024/09/13 12:07:31 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_360.json
+2024/09/13 12:07:31 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:31 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 54125
+2024/09/13 12:07:31 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_180.json
+2024/09/13 12:07:31 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:31 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47979
+2024/09/13 12:07:31 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_3120.json
+2024/09/13 12:07:31 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:31 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=1500&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:31 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=1500&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:31 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:31 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48566
+2024/09/13 12:07:31 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_2160.json
+2024/09/13 12:07:31 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:31 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47817
+2024/09/13 12:07:31 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_3000.json
+2024/09/13 12:07:31 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:31 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49030
+2024/09/13 12:07:31 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_1260.json
+2024/09/13 12:07:31 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:32 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45478
+2024/09/13 12:07:32 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_3360.json
+2024/09/13 12:07:32 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:32 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47941
+2024/09/13 12:07:32 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_3300.json
+2024/09/13 12:07:32 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:32 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=2040&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:32 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=2040&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:32 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:32 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48899
+2024/09/13 12:07:32 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_2280.json
+2024/09/13 12:07:32 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:32 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48542
+2024/09/13 12:07:32 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_3180.json
+2024/09/13 12:07:32 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:32 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=3780&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:32 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=3780&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:32 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:32 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47260
+2024/09/13 12:07:32 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_3840.json
+2024/09/13 12:07:32 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:32 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47619
+2024/09/13 12:07:32 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_4020.json
+2024/09/13 12:07:32 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:32 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45808
+2024/09/13 12:07:32 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_3660.json
+2024/09/13 12:07:32 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:32 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=1740&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": Bad Gateway
+2024/09/13 12:07:32 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=1740&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": Bad Gateway
+2024/09/13 12:07:32 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:32 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47507
+2024/09/13 12:07:32 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_3720.json
+2024/09/13 12:07:32 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:32 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48954
+2024/09/13 12:07:32 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_3240.json
+2024/09/13 12:07:32 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:33 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49955
+2024/09/13 12:07:33 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_3960.json
+2024/09/13 12:07:33 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:33 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=4380&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:33 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=4380&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:33 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:33 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47935
+2024/09/13 12:07:33 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_3600.json
+2024/09/13 12:07:33 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:33 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47835
+2024/09/13 12:07:33 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_3060.json
+2024/09/13 12:07:33 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:33 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46377
+2024/09/13 12:07:33 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_3420.json
+2024/09/13 12:07:33 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:33 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 50079
+2024/09/13 12:07:33 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_1980.json
+2024/09/13 12:07:33 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:33 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=5220&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:33 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=5220&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:33 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:33 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48276
+2024/09/13 12:07:33 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_4200.json
+2024/09/13 12:07:33 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:33 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=3900&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:33 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=3900&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:33 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:33 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47133
+2024/09/13 12:07:33 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_4440.json
+2024/09/13 12:07:33 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:34 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47269
+2024/09/13 12:07:34 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_4500.json
+2024/09/13 12:07:34 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:34 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46976
+2024/09/13 12:07:34 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_4920.json
+2024/09/13 12:07:34 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:34 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48695
+2024/09/13 12:07:34 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_3540.json
+2024/09/13 12:07:34 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:34 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47466
+2024/09/13 12:07:34 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_4800.json
+2024/09/13 12:07:34 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:34 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=4980&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:34 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=4980&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:34 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:35 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48431
+2024/09/13 12:07:35 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_4560.json
+2024/09/13 12:07:35 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:35 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49236
+2024/09/13 12:07:35 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_5100.json
+2024/09/13 12:07:35 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:35 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47366
+2024/09/13 12:07:35 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_5460.json
+2024/09/13 12:07:35 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:35 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47829
+2024/09/13 12:07:35 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_4860.json
+2024/09/13 12:07:35 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:35 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47646
+2024/09/13 12:07:35 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_4320.json
+2024/09/13 12:07:35 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:35 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=4680&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:35 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=4680&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:35 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:36 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46321
+2024/09/13 12:07:36 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_5580.json
+2024/09/13 12:07:36 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:36 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47856
+2024/09/13 12:07:36 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_5340.json
+2024/09/13 12:07:36 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:36 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48418
+2024/09/13 12:07:36 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_5040.json
+2024/09/13 12:07:36 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:36 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48229
+2024/09/13 12:07:36 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_4260.json
+2024/09/13 12:07:36 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:36 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49805
+2024/09/13 12:07:36 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_5160.json
+2024/09/13 12:07:36 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:36 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49382
+2024/09/13 12:07:36 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_5820.json
+2024/09/13 12:07:36 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:36 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47465
+2024/09/13 12:07:36 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_5940.json
+2024/09/13 12:07:36 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:36 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47610
+2024/09/13 12:07:36 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_5700.json
+2024/09/13 12:07:36 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:37 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=6300&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:37 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=6300&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:37 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:37 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=6060&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:37 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=6060&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:37 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:37 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:37 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46275
+2024/09/13 12:07:37 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_5760.json
+2024/09/13 12:07:37 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:37 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=6540&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:37 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=6540&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:37 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:38 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:38 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=6840&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:38 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=6840&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:38 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:38 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46323
+2024/09/13 12:07:38 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_6000.json
+2024/09/13 12:07:38 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:38 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:38 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:38 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48035
+2024/09/13 12:07:38 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_5400.json
+2024/09/13 12:07:38 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:38 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 43995
+2024/09/13 12:07:38 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_6360.json
+2024/09/13 12:07:38 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:38 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:38 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=1860&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:38 fetch_artifacthub.go:269: Attempt 2 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=1860&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:38 fetch_artifacthub.go:282: Request failed. Retrying in 20s...
+2024/09/13 12:07:38 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47606
+2024/09/13 12:07:38 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_5280.json
+2024/09/13 12:07:38 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:39 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 54329
+2024/09/13 12:07:39 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_0.json
+2024/09/13 12:07:39 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:39 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 43141
+2024/09/13 12:07:39 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_6480.json
+2024/09/13 12:07:39 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:39 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46155
+2024/09/13 12:07:39 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_6420.json
+2024/09/13 12:07:39 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:39 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=60&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:39 fetch_artifacthub.go:269: Attempt 2 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=60&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:39 fetch_artifacthub.go:282: Request failed. Retrying in 20s...
+2024/09/13 12:07:39 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45700
+2024/09/13 12:07:39 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_5520.json
+2024/09/13 12:07:39 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:39 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 43418
+2024/09/13 12:07:39 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_6240.json
+2024/09/13 12:07:39 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:39 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=7020&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:39 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=7020&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:07:39 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:39 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45569
+2024/09/13 12:07:39 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_6720.json
+2024/09/13 12:07:39 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:39 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45655
+2024/09/13 12:07:39 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_6600.json
+2024/09/13 12:07:39 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:39 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:40 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=7380&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52706->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:40 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=7380&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52706->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:40 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:40 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:40 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:40 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 42507
+2024/09/13 12:07:40 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_6960.json
+2024/09/13 12:07:40 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:40 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49684
+2024/09/13 12:07:40 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_540.json
+2024/09/13 12:07:40 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:40 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=7560&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52722->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:40 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=7560&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52722->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:40 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:41 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 43084
+2024/09/13 12:07:41 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_7080.json
+2024/09/13 12:07:41 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:41 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:41 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=7740&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52734->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:41 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=7740&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52734->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:41 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:42 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45740
+2024/09/13 12:07:42 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_7500.json
+2024/09/13 12:07:42 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:42 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=7620&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52730->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:42 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=7620&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52730->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:42 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:42 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44928
+2024/09/13 12:07:42 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_7440.json
+2024/09/13 12:07:42 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:42 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:42 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:42 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45816
+2024/09/13 12:07:42 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_7320.json
+2024/09/13 12:07:42 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:42 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:43 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49861
+2024/09/13 12:07:43 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_1380.json
+2024/09/13 12:07:43 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:43 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:43 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45627
+2024/09/13 12:07:43 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_6120.json
+2024/09/13 12:07:43 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:43 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=7860&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52750->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:43 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=7860&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52750->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:43 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:43 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44823
+2024/09/13 12:07:43 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_7680.json
+2024/09/13 12:07:43 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:43 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=3780&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52766->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:43 fetch_artifacthub.go:269: Attempt 2 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=3780&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52766->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:43 fetch_artifacthub.go:282: Request failed. Retrying in 20s...
+2024/09/13 12:07:43 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:43 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46236
+2024/09/13 12:07:43 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_6180.json
+2024/09/13 12:07:43 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:43 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:44 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=1740&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52770->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:44 fetch_artifacthub.go:269: Attempt 2 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=1740&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52770->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:44 fetch_artifacthub.go:282: Request failed. Retrying in 20s...
+2024/09/13 12:07:44 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44548
+2024/09/13 12:07:44 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_6900.json
+2024/09/13 12:07:44 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:44 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=4380&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52774->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:44 fetch_artifacthub.go:269: Attempt 2 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=4380&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52774->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:44 fetch_artifacthub.go:282: Request failed. Retrying in 20s...
+2024/09/13 12:07:44 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 53635
+2024/09/13 12:07:44 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_120.json
+2024/09/13 12:07:44 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:44 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:44 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=8100&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52786->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:44 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=8100&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52786->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:44 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:45 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=8040&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52776->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:45 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=8040&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52776->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:45 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:45 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47117
+2024/09/13 12:07:45 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_7800.json
+2024/09/13 12:07:45 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:45 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45892
+2024/09/13 12:07:45 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_6780.json
+2024/09/13 12:07:45 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:45 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49076
+2024/09/13 12:07:45 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_1560.json
+2024/09/13 12:07:45 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:45 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45284
+2024/09/13 12:07:45 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_7980.json
+2024/09/13 12:07:45 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:45 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 51013
+2024/09/13 12:07:45 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_2040.json
+2024/09/13 12:07:45 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:45 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:45 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49209
+2024/09/13 12:07:45 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_1500.json
+2024/09/13 12:07:45 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:45 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 50741
+2024/09/13 12:07:45 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_5220.json
+2024/09/13 12:07:45 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:46 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 43251
+2024/09/13 12:07:46 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_7920.json
+2024/09/13 12:07:46 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:46 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44780
+2024/09/13 12:07:46 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_7200.json
+2024/09/13 12:07:46 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:46 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=8580&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52798->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:46 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=8580&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:52798->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:46 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:46 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46468
+2024/09/13 12:07:46 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_5640.json
+2024/09/13 12:07:46 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:46 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48155
+2024/09/13 12:07:46 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_2340.json
+2024/09/13 12:07:46 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:46 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49588
+2024/09/13 12:07:46 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_1920.json
+2024/09/13 12:07:46 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:46 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=8640&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:33792->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:46 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=8640&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:33792->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:46 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:47 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:47 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=8700&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:33808->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:47 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=8700&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:33808->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:47 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:47 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:47 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49297
+2024/09/13 12:07:47 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_4980.json
+2024/09/13 12:07:47 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:47 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:48 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45040
+2024/09/13 12:07:48 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_7260.json
+2024/09/13 12:07:48 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:48 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:48 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48436
+2024/09/13 12:07:48 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_3900.json
+2024/09/13 12:07:48 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:48 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47800
+2024/09/13 12:07:48 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_5880.json
+2024/09/13 12:07:48 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:48 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 43686
+2024/09/13 12:07:48 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_8220.json
+2024/09/13 12:07:48 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:48 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44927
+2024/09/13 12:07:48 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_8820.json
+2024/09/13 12:07:48 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:48 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44314
+2024/09/13 12:07:48 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_8760.json
+2024/09/13 12:07:48 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:48 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=6840&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:33820->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:48 fetch_artifacthub.go:269: Attempt 2 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=6840&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:33820->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:48 fetch_artifacthub.go:282: Request failed. Retrying in 20s...
+2024/09/13 12:07:49 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 43620
+2024/09/13 12:07:49 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_8340.json
+2024/09/13 12:07:49 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:49 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46403
+2024/09/13 12:07:49 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_8160.json
+2024/09/13 12:07:49 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:49 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=9180&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:33834->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:49 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=9180&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:33834->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:49 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:49 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 58849
+2024/09/13 12:07:49 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_8460.json
+2024/09/13 12:07:49 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:49 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:49 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45340
+2024/09/13 12:07:49 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_9000.json
+2024/09/13 12:07:49 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:50 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:50 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45799
+2024/09/13 12:07:50 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_6540.json
+2024/09/13 12:07:50 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:50 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:51 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45578
+2024/09/13 12:07:51 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_9360.json
+2024/09/13 12:07:51 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:51 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46620
+2024/09/13 12:07:51 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_9120.json
+2024/09/13 12:07:51 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:51 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47377
+2024/09/13 12:07:51 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_9420.json
+2024/09/13 12:07:51 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:51 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45206
+2024/09/13 12:07:51 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_9300.json
+2024/09/13 12:07:51 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:51 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:51 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44296
+2024/09/13 12:07:51 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_7140.json
+2024/09/13 12:07:51 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:52 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:52 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44862
+2024/09/13 12:07:52 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_9060.json
+2024/09/13 12:07:52 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:52 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45683
+2024/09/13 12:07:52 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_7380.json
+2024/09/13 12:07:52 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:52 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45402
+2024/09/13 12:07:52 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_9660.json
+2024/09/13 12:07:52 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:52 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45172
+2024/09/13 12:07:52 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_9480.json
+2024/09/13 12:07:52 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:53 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:53 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47152
+2024/09/13 12:07:53 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_7560.json
+2024/09/13 12:07:53 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:54 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44720
+2024/09/13 12:07:54 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_6300.json
+2024/09/13 12:07:54 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:54 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44978
+2024/09/13 12:07:54 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_9840.json
+2024/09/13 12:07:54 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:54 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47361
+2024/09/13 12:07:54 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_4680.json
+2024/09/13 12:07:54 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:54 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47642
+2024/09/13 12:07:54 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_7020.json
+2024/09/13 12:07:54 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:54 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44540
+2024/09/13 12:07:54 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_9780.json
+2024/09/13 12:07:54 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:54 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48004
+2024/09/13 12:07:54 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_8400.json
+2024/09/13 12:07:54 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:54 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45375
+2024/09/13 12:07:54 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_9900.json
+2024/09/13 12:07:54 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:54 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46072
+2024/09/13 12:07:54 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_9600.json
+2024/09/13 12:07:54 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:54 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 43683
+2024/09/13 12:07:54 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_9960.json
+2024/09/13 12:07:54 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:54 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=10320&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:33842->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:54 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=10320&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:33842->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:54 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:54 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:54 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45393
+2024/09/13 12:07:54 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_10020.json
+2024/09/13 12:07:54 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:54 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46498
+2024/09/13 12:07:54 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_9720.json
+2024/09/13 12:07:54 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:55 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:55 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45516
+2024/09/13 12:07:55 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_8880.json
+2024/09/13 12:07:55 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:55 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 43520
+2024/09/13 12:07:55 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_7620.json
+2024/09/13 12:07:55 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:55 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45681
+2024/09/13 12:07:55 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_10080.json
+2024/09/13 12:07:55 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:55 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=10680&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:33852->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:55 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=10680&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:33852->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:55 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:55 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44809
+2024/09/13 12:07:55 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_7740.json
+2024/09/13 12:07:55 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:55 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44061
+2024/09/13 12:07:55 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_10140.json
+2024/09/13 12:07:55 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:56 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47260
+2024/09/13 12:07:56 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_10380.json
+2024/09/13 12:07:56 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:56 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:56 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=600&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:07:56 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=600&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:07:56 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:56 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45327
+2024/09/13 12:07:56 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_10200.json
+2024/09/13 12:07:56 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:56 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46134
+2024/09/13 12:07:56 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_10620.json
+2024/09/13 12:07:56 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:56 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:57 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46125
+2024/09/13 12:07:57 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_10860.json
+2024/09/13 12:07:57 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:57 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=960&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:07:57 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=960&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:07:57 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:57 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=1800&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:07:57 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=1800&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:07:57 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:57 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=300&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:07:57 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=300&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:07:57 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:57 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:57 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47880
+2024/09/13 12:07:57 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_8100.json
+2024/09/13 12:07:57 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:57 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=2880&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:07:57 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=2880&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:07:57 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:57 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44972
+2024/09/13 12:07:57 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_8040.json
+2024/09/13 12:07:57 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:57 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46167
+2024/09/13 12:07:57 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_7860.json
+2024/09/13 12:07:57 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:07:57 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46789
+2024/09/13 12:07:57 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_10560.json
+2024/09/13 12:07:57 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:57 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=900&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:07:57 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=900&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:07:57 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:57 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49817
+2024/09/13 12:07:57 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_10740.json
+2024/09/13 12:07:57 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:57 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46527
+2024/09/13 12:07:57 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_10800.json
+2024/09/13 12:07:57 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:07:57 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45542
+2024/09/13 12:07:57 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_10980.json
+2024/09/13 12:07:57 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:57 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=11400&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35278->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:57 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=11400&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35278->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:57 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:58 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=8700&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35300->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:58 fetch_artifacthub.go:269: Attempt 2 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=8700&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35300->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:58 fetch_artifacthub.go:282: Request failed. Retrying in 20s...
+2024/09/13 12:07:58 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44125
+2024/09/13 12:07:58 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_11100.json
+2024/09/13 12:07:58 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:07:58 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=11820&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35312->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:58 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=11820&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35312->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:58 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:58 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=8640&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35290->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:58 fetch_artifacthub.go:269: Attempt 2 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=8640&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35290->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:58 fetch_artifacthub.go:282: Request failed. Retrying in 20s...
+2024/09/13 12:07:58 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46984
+2024/09/13 12:07:58 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_11040.json
+2024/09/13 12:07:58 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:58 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 50151
+2024/09/13 12:07:58 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_11160.json
+2024/09/13 12:07:58 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:58 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:59 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=11760&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35310->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:59 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=11760&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35310->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:07:59 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:07:59 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:07:59 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:07:59 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44057
+2024/09/13 12:07:59 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_10440.json
+2024/09/13 12:07:59 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:08:00 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 43149
+2024/09/13 12:08:00 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_11460.json
+2024/09/13 12:08:00 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:08:00 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=12120&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35328->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:08:00 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=12120&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35328->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:08:00 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:00 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44628
+2024/09/13 12:08:00 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_8940.json
+2024/09/13 12:08:00 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:08:00 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=12060&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35314->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:08:00 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=12060&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35314->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:08:00 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:00 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=9180&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35338->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:08:00 fetch_artifacthub.go:269: Attempt 2 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=9180&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35338->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:08:00 fetch_artifacthub.go:282: Request failed. Retrying in 20s...
+2024/09/13 12:08:00 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44983
+2024/09/13 12:08:00 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_11340.json
+2024/09/13 12:08:00 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:08:00 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=4080&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:00 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=4080&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:00 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:00 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=3480&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:00 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=3480&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:00 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:00 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46097
+2024/09/13 12:08:00 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_11700.json
+2024/09/13 12:08:00 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:08:00 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=4140&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:00 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=4140&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:00 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:00 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45867
+2024/09/13 12:08:00 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_8580.json
+2024/09/13 12:08:00 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:08:00 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45896
+2024/09/13 12:08:00 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_11940.json
+2024/09/13 12:08:00 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:08:01 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44884
+2024/09/13 12:08:01 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_12000.json
+2024/09/13 12:08:01 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:08:01 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=4620&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:01 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=4620&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:01 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:01 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 42351
+2024/09/13 12:08:01 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_11580.json
+2024/09/13 12:08:01 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:08:01 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=12300&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35350->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:08:01 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=12300&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35350->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:08:01 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:01 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44051
+2024/09/13 12:08:01 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_11640.json
+2024/09/13 12:08:01 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:08:02 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=4740&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:02 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=4740&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:02 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:02 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44065
+2024/09/13 12:08:02 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_11520.json
+2024/09/13 12:08:02 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:08:02 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44656
+2024/09/13 12:08:02 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_11280.json
+2024/09/13 12:08:02 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:08:03 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 53257
+2024/09/13 12:08:03 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_60.json
+2024/09/13 12:08:03 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:08:03 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 2514
+2024/09/13 12:08:03 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_12600.json
+2024/09/13 12:08:03 fetch_artifacthub.go:224: No more packages to fetch at offset 12600
+2024/09/13 12:08:03 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:08:03 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=12840&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35364->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:08:03 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=12840&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35364->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:08:03 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:03 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 30901
+2024/09/13 12:08:03 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_12540.json
+2024/09/13 12:08:03 fetch_artifacthub.go:224: No more packages to fetch at offset 12540
+2024/09/13 12:08:04 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:08:04 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44658
+2024/09/13 12:08:04 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_11880.json
+2024/09/13 12:08:04 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:08:04 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:08:04 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:08:04 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 2514
+2024/09/13 12:08:04 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_12780.json
+2024/09/13 12:08:04 fetch_artifacthub.go:224: No more packages to fetch at offset 12780
+2024/09/13 12:08:05 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47268
+2024/09/13 12:08:05 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_12360.json
+2024/09/13 12:08:05 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 2514
+2024/09/13 12:08:05 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_12720.json
+2024/09/13 12:08:05 fetch_artifacthub.go:224: No more packages to fetch at offset 12720
+2024/09/13 12:08:05 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:08:05 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45263
+2024/09/13 12:08:05 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_12420.json
+2024/09/13 12:08:06 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 53121
+2024/09/13 12:08:06 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_1740.json
+2024/09/13 12:08:06 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=10680&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35376->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:08:06 fetch_artifacthub.go:269: Attempt 2 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=10680&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:35376->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:08:06 fetch_artifacthub.go:282: Request failed. Retrying in 20s...
+2024/09/13 12:08:06 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45463
+2024/09/13 12:08:06 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_12240.json
+2024/09/13 12:08:06 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 2514
+2024/09/13 12:08:06 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_12660.json
+2024/09/13 12:08:06 fetch_artifacthub.go:224: No more packages to fetch at offset 12660
+2024/09/13 12:08:06 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:08:06 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=6660&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:06 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=6660&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:06 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:07 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:08:07 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:08:07 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47500
+2024/09/13 12:08:07 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_3780.json
+2024/09/13 12:08:07 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:08:07 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 2514
+2024/09/13 12:08:07 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_12900.json
+2024/09/13 12:08:07 fetch_artifacthub.go:224: No more packages to fetch at offset 12900
+2024/09/13 12:08:07 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:08:07 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:08:07 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:08:07 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 2514
+2024/09/13 12:08:07 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_12960.json
+2024/09/13 12:08:07 fetch_artifacthub.go:224: No more packages to fetch at offset 12960
+2024/09/13 12:08:08 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=600&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:47520->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:08:08 fetch_artifacthub.go:269: Attempt 2 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=600&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:47520->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:08:08 fetch_artifacthub.go:282: Request failed. Retrying in 20s...
+2024/09/13 12:08:08 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:08:08 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49144
+2024/09/13 12:08:08 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_12180.json
+2024/09/13 12:08:08 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:08:09 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:08:09 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44805
+2024/09/13 12:08:09 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_10320.json
+2024/09/13 12:08:09 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48589
+2024/09/13 12:08:09 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_4380.json
+2024/09/13 12:08:09 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=11820&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:47530->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:08:09 fetch_artifacthub.go:269: Attempt 2 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=11820&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:47530->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:08:09 fetch_artifacthub.go:282: Request failed. Retrying in 20s...
+2024/09/13 12:08:09 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 52417
+2024/09/13 12:08:09 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_300.json
+2024/09/13 12:08:10 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 50236
+2024/09/13 12:08:10 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_960.json
+2024/09/13 12:08:10 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:08:10 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:08:10 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:08:10 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:08:10 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:08:11 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45695
+2024/09/13 12:08:11 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_11400.json
+2024/09/13 12:08:11 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:08:11 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 51585
+2024/09/13 12:08:11 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_900.json
+2024/09/13 12:08:11 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:08:12 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44106
+2024/09/13 12:08:12 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_11760.json
+2024/09/13 12:08:12 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:08:12 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45047
+2024/09/13 12:08:12 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_12060.json
+2024/09/13 12:08:12 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 50871
+2024/09/13 12:08:12 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_2880.json
+2024/09/13 12:08:13 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46597
+2024/09/13 12:08:13 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_3480.json
+2024/09/13 12:08:13 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 49601
+2024/09/13 12:08:13 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_1800.json
+2024/09/13 12:08:13 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45385
+2024/09/13 12:08:13 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_12120.json
+2024/09/13 12:08:13 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:08:13 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46469
+2024/09/13 12:08:13 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_4620.json
+2024/09/13 12:08:13 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48357
+2024/09/13 12:08:13 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_4140.json
+2024/09/13 12:08:14 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47540
+2024/09/13 12:08:14 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_4080.json
+2024/09/13 12:08:14 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45661
+2024/09/13 12:08:14 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_6840.json
+2024/09/13 12:08:14 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=8280&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:14 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=8280&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:14 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:14 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46874
+2024/09/13 12:08:14 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_4740.json
+2024/09/13 12:08:15 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=8520&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:15 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=8520&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:15 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:16 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:08:16 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 2514
+2024/09/13 12:08:16 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_12840.json
+2024/09/13 12:08:16 fetch_artifacthub.go:224: No more packages to fetch at offset 12840
+2024/09/13 12:08:17 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46405
+2024/09/13 12:08:17 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_12300.json
+2024/09/13 12:08:17 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=6060&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:17 fetch_artifacthub.go:269: Attempt 2 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=6060&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:17 fetch_artifacthub.go:282: Request failed. Retrying in 20s...
+2024/09/13 12:08:18 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:08:18 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=9240&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:18 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=9240&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:18 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:18 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:08:19 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=9540&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:19 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=9540&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:19 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:20 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:08:21 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47167
+2024/09/13 12:08:21 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_8700.json
+2024/09/13 12:08:22 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=9180&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:43636->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:08:22 fetch_artifacthub.go:269: Attempt 3 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=9180&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": read tcp 10.13.182.106:43636->18.133.16.21:1080: read: connection reset by peer
+2024/09/13 12:08:22 fetch_artifacthub.go:282: Request failed. Retrying in 30s...
+2024/09/13 12:08:23 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=10260&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:23 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=10260&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:23 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:24 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44971
+2024/09/13 12:08:24 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_8640.json
+2024/09/13 12:08:24 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=10500&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:24 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=10500&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:24 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:24 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:08:25 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=10920&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:25 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=10920&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:25 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:25 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:08:25 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=11220&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:25 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=11220&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:25 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:26 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:08:28 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:08:28 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:08:28 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45031
+2024/09/13 12:08:28 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_10680.json
+2024/09/13 12:08:29 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=600&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:08:29 fetch_artifacthub.go:269: Attempt 3 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=600&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:08:29 fetch_artifacthub.go:282: Request failed. Retrying in 30s...
+2024/09/13 12:08:29 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:08:29 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=1860&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:29 fetch_artifacthub.go:269: Attempt 3 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=1860&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:29 fetch_artifacthub.go:282: Request failed. Retrying in 30s...
+2024/09/13 12:08:29 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:08:30 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44777
+2024/09/13 12:08:30 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_9240.json
+2024/09/13 12:08:31 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44840
+2024/09/13 12:08:31 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_8520.json
+2024/09/13 12:08:31 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=12480&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:31 fetch_artifacthub.go:269: Attempt 1 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=12480&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:31 fetch_artifacthub.go:282: Request failed. Retrying in 10s...
+2024/09/13 12:08:31 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47696
+2024/09/13 12:08:31 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_9540.json
+2024/09/13 12:08:33 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:08:34 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:08:35 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:08:35 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:08:37 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:08:38 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45433
+2024/09/13 12:08:38 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_11220.json
+2024/09/13 12:08:38 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44303
+2024/09/13 12:08:38 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_10920.json
+2024/09/13 12:08:41 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:08:41 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 43847
+2024/09/13 12:08:41 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_10500.json
+2024/09/13 12:08:43 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=6060&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": Bad Gateway
+2024/09/13 12:08:43 fetch_artifacthub.go:269: Attempt 3 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=6060&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": Bad Gateway
+2024/09/13 12:08:43 fetch_artifacthub.go:282: Request failed. Retrying in 30s...
+2024/09/13 12:08:46 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=6660&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:46 fetch_artifacthub.go:269: Attempt 2 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=6660&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:46 fetch_artifacthub.go:282: Request failed. Retrying in 20s...
+2024/09/13 12:08:52 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:08:55 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=8280&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:55 fetch_artifacthub.go:269: Attempt 2 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=8280&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:08:55 fetch_artifacthub.go:282: Request failed. Retrying in 20s...
+2024/09/13 12:08:59 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:08:59 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:09:00 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=11820&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:09:00 fetch_artifacthub.go:269: Attempt 3 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=11820&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:09:00 fetch_artifacthub.go:282: Request failed. Retrying in 30s...
+2024/09/13 12:09:01 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 51889
+2024/09/13 12:09:01 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_600.json
+2024/09/13 12:09:04 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=10260&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:09:04 fetch_artifacthub.go:269: Attempt 2 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=10260&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:09:04 fetch_artifacthub.go:282: Request failed. Retrying in 20s...
+2024/09/13 12:09:05 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 50714
+2024/09/13 12:09:05 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_1860.json
+2024/09/13 12:09:05 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 48925
+2024/09/13 12:09:05 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_9180.json
+2024/09/13 12:09:06 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:09:12 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=12480&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:09:12 fetch_artifacthub.go:269: Attempt 2 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=12480&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:09:12 fetch_artifacthub.go:282: Request failed. Retrying in 20s...
+2024/09/13 12:09:13 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:09:15 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:09:18 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 46918
+2024/09/13 12:09:18 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_6060.json
+2024/09/13 12:09:19 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 47376
+2024/09/13 12:09:19 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_8280.json
+2024/09/13 12:09:24 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:09:27 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 45492
+2024/09/13 12:09:27 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_10260.json
+2024/09/13 12:09:30 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:09:32 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:09:33 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=11820&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:09:33 fetch_artifacthub.go:269: Attempt 4 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=11820&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:09:33 fetch_artifacthub.go:282: Request failed. Retrying in 40s...
+2024/09/13 12:09:37 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=6660&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:09:37 fetch_artifacthub.go:269: Attempt 3 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=6660&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:09:37 fetch_artifacthub.go:282: Request failed. Retrying in 30s...
+2024/09/13 12:09:37 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=12480&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": Bad Gateway
+2024/09/13 12:09:37 fetch_artifacthub.go:269: Attempt 3 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=12480&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": Bad Gateway
+2024/09/13 12:09:37 fetch_artifacthub.go:282: Request failed. Retrying in 30s...
+2024/09/13 12:10:07 fetch_artifacthub.go:255: Using proxy: 18.133.16.21:1080
+2024/09/13 12:10:07 fetch_artifacthub.go:255: Using proxy: 85.172.174.3:3128
+2024/09/13 12:10:08 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=6660&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:10:08 fetch_artifacthub.go:269: Attempt 4 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=6660&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead
+2024/09/13 12:10:08 fetch_artifacthub.go:282: Request failed. Retrying in 40s...
+2024/09/13 12:10:13 fetch_artifacthub.go:255: Using proxy: 203.138.190.104:3128
+2024/09/13 12:10:15 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 44503
+2024/09/13 12:10:15 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_11820.json
+2024/09/13 12:10:19 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 43762
+2024/09/13 12:10:19 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_12480.json
+2024/09/13 12:10:48 fetch_artifacthub.go:255: Using proxy: 164.70.119.15:3128
+2024/09/13 12:11:18 fetch_artifacthub.go:342: Request error: Get "https://artifacthub.io/api/v1/packages/search?offset=6660&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:11:18 fetch_artifacthub.go:269: Attempt 5 failed: Get "https://artifacthub.io/api/v1/packages/search?offset=6660&limit=60&facets=true&kind=0&deprecated=false&sort=relevance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/09/13 12:11:18 fetch_artifacthub.go:282: Request failed. Retrying in 50s...
+2024/09/13 12:12:08 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
+2024/09/13 12:12:10 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 43345
+2024/09/13 12:12:10 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_6660.json

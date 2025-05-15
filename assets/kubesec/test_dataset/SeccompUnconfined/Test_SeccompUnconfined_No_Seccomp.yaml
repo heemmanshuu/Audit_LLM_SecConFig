@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+spec:
+    containers:
+    -   name: c1
+        securityContext:
+            capabilities:
+                drop: null
+    -   name: c2
+        securityContext:
+            capabilities: null
+    -   name: c3

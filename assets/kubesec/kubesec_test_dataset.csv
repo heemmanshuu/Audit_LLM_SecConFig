@@ -1,0 +1,8 @@
+type,yaml_file
+CapSysAdmin,assets/kubesec/test_dataset/CapSysAdmin/Test_CapSysAdmin_Pod.yaml
+CapSysAdmin,assets/kubesec/test_dataset/CapSysAdmin/Test_CapSysAdmin_InitContainers.yaml
+HostAliases,assets/kubesec/test_dataset/HostAliases/Test_HostAliases.yaml
+HostNetwork,assets/kubesec/test_dataset/HostNetwork/Test_HostNetwork_Pod.yaml
+Privileged,assets/kubesec/test_dataset/Privileged/Test_Privileged_Pod.yaml
+SeccompUnconfined,assets/kubesec/test_dataset/SeccompUnconfined/Test_SeccompUnconfined_Pod_Unconfined.yaml
+SeccompUnconfined,assets/kubesec/test_dataset/SeccompUnconfined/Test_SeccompUnconfined_Named_Pod_Special_Chars_Unconfined.yaml

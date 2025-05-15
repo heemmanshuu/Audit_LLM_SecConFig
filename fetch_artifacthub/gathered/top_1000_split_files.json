@@ -1,0 +1,2547 @@
+[
+  {
+    "files": "fetch_artifacthub/assets/cert-manager_cert-manager.yaml",
+    "results": [
+      0,
+      1,
+      2,
+      34,
+      35,
+      36,
+      45,
+      48
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/ingress-nginx_ingress-nginx.yaml",
+    "results": [
+      0,
+      8,
+      12,
+      17,
+      18
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/argo_argo-cd.yaml",
+    "results": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      52
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/prometheus-community_prometheus.yaml",
+    "results": [
+      0,
+      1,
+      3,
+      18,
+      19,
+      20,
+      21,
+      22
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/grafana_grafana.yaml",
+    "results": [
+      8,
+      11
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_postgresql.yaml",
+    "results": [
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/k8s-dashboard_kubernetes-dashboard.yaml",
+    "results": [
+      13,
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/traefik_traefik.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/metrics-server_metrics-server.yaml",
+    "results": [
+      7
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/jenkinsci_jenkins.yaml",
+    "results": [
+      11,
+      13
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_keycloak.yaml",
+    "results": [
+      13,
+      14
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_mysql.yaml",
+    "results": [
+      7
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_rabbitmq.yaml",
+    "results": [
+      9
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/harbor_harbor.yaml",
+    "results": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/elastic_elasticsearch.yaml",
+    "results": [
+      5,
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_kafka.yaml",
+    "results": [
+      11
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/gitlab_gitlab-runner.yaml",
+    "results": [
+      1
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_mongodb.yaml",
+    "results": [
+      7
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/nextcloud_nextcloud.yaml",
+    "results": [
+      2
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/apache-airflow_airflow.yaml",
+    "results": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      85,
+      86
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/vmware-tanzu_velero.yaml",
+    "results": [
+      6,
+      12
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_minio.yaml",
+    "results": [
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/cluster-autoscaler_cluster-autoscaler.yaml",
+    "results": [
+      1
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/external-dns_external-dns.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/external-secrets-operator_external-secrets.yaml",
+    "results": [
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/longhorn_longhorn.yaml",
+    "results": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/grafana_loki-stack.yaml",
+    "results": [
+      0,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/cilium_cilium.yaml",
+    "results": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/datadog_datadog.yaml",
+    "results": [
+      0,
+      1,
+      20
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/fluent_fluent-bit.yaml",
+    "results": [
+      5,
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/grafana_promtail.yaml",
+    "results": [
+      0,
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/sonarqube_sonarqube.yaml",
+    "results": [
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/metallb_metallb.yaml",
+    "results": [
+      21,
+      22
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/nfs-subdir-external-provisioner_nfs-subdir-external-provisioner.yaml",
+    "results": [
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/nginx_nginx-ingress.yaml",
+    "results": [
+      8
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_thanos.yaml",
+    "results": [
+      9,
+      10
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_wordpress.yaml",
+    "results": [
+      12,
+      13
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/gitea_gitea.yaml",
+    "results": [
+      25,
+      26,
+      27,
+      28,
+      29
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/artifact-hub_artifact-hub.yaml",
+    "results": [
+      0,
+      10,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/elastic_kibana.yaml",
+    "results": [
+      1,
+      9,
+      10
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_mariadb.yaml",
+    "results": [
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/oauth2-proxy_oauth2-proxy.yaml",
+    "results": [
+      0,
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/hashicorp_consul.yaml",
+    "results": [
+      68,
+      69,
+      73,
+      74,
+      75
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/kyverno_kyverno.yaml",
+    "results": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/runix_pgadmin4.yaml",
+    "results": [
+      4,
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/mojo2600_pihole.yaml",
+    "results": [
+      2,
+      3,
+      4,
+      6,
+      7
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami-labs_sealed-secrets.yaml",
+    "results": [
+      9
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/sentry_sentry.yaml",
+    "results": [
+      9,
+      10,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/prometheus-community_kube-state-metrics.yaml",
+    "results": [
+      0,
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/kedacore_keda.yaml",
+    "results": [
+      0,
+      1,
+      2,
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/descheduler_descheduler.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/argo_argo-rollouts.yaml",
+    "results": [
+      13
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/goauthentik_authentik.yaml",
+    "results": [
+      7,
+      8
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/elastic_eck-operator.yaml",
+    "results": [
+      0,
+      18
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_postgresql-ha.yaml",
+    "results": [
+      12,
+      13
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/jaegertracing_jaeger.yaml",
+    "results": [
+      1,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_redis-cluster.yaml",
+    "results": [
+      8
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/kubeview_kubeview.yaml",
+    "results": [
+      4,
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/kvaps_nfs-server-provisioner.yaml",
+    "results": [
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/dex_dex.yaml",
+    "results": [
+      7
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/jupyterhub_jupyterhub.yaml",
+    "results": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      26,
+      27
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/chartmuseum_chartmuseum.yaml",
+    "results": [
+      2
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/istio-official_gateway.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/prometheus-community_prometheus-blackbox-exporter.yaml",
+    "results": [
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/pmint93_metabase.yaml",
+    "results": [
+      2
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/nats_nats.yaml",
+    "results": [
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/grafana_mimir-distributed.yaml",
+    "results": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      64,
+      65
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/elastic_logstash.yaml",
+    "results": [
+      2
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/twuni_docker-registry.yaml",
+    "results": [
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/prometheus-community_prometheus-node-exporter.yaml",
+    "results": [
+      2
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/falcosecurity_falco.yaml",
+    "results": [
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/aws_aws-node-termination-handler.yaml",
+    "results": [
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/crossplane_crossplane.yaml",
+    "results": [
+      20,
+      21
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/stakater_reloader.yaml",
+    "results": [
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_spark.yaml",
+    "results": [
+      8,
+      9
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/argo_argocd-image-updater.yaml",
+    "results": [
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/kured_kured.yaml",
+    "results": [
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/kong_kong.yaml",
+    "results": [
+      8,
+      10
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/prometheus-community_alertmanager.yaml",
+    "results": [
+      0,
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/argo_argo-events.yaml",
+    "results": [
+      0,
+      1,
+      8
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/prometheus-community_prometheus-adapter.yaml",
+    "results": [
+      9
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_etcd.yaml",
+    "results": [
+      7
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_kubeapps.yaml",
+    "results": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_nginx-ingress-controller.yaml",
+    "results": [
+      13,
+      14
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/dandydev-charts_redis-ha.yaml",
+    "results": [
+      9,
+      10
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_kube-prometheus.yaml",
+    "results": [
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/prometheus-community_prometheus-postgres-exporter.yaml",
+    "results": [
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/uptime-kuma_uptime-kuma.yaml",
+    "results": [
+      2,
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/fairwinds-stable_goldilocks.yaml",
+    "results": [
+      7,
+      8
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/elastic_filebeat.yaml",
+    "results": [
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_fluentd.yaml",
+    "results": [
+      12,
+      13
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/opensearch-project-helm-charts_opensearch.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/aws_aws-for-fluent-bit.yaml",
+    "results": [
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/cloudnative-pg_cloudnative-pg.yaml",
+    "results": [
+      14
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/emberstack_reflector.yaml",
+    "results": [
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_zookeeper.yaml",
+    "results": [
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/openebs_openebs.yaml",
+    "results": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/codecentric_mailhog.yaml",
+    "results": [
+      2
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_mariadb-galera.yaml",
+    "results": [
+      7
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/hashicorp_terraform.yaml",
+    "results": [
+      3,
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_ghost.yaml",
+    "results": [
+      12
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/trivy-operator_trivy-operator.yaml",
+    "results": [
+      16
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_memcached.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_phpmyadmin.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/superset_superset.yaml",
+    "results": [
+      0,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/atlassian-data-center_jira.yaml",
+    "results": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/apisix_apisix.yaml",
+    "results": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/grafana_loki-distributed.yaml",
+    "results": [
+      0,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/projectcalico_tigera-operator.yaml",
+    "results": [
+      3,
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/prometheus-community_prometheus-pushgateway.yaml",
+    "results": [
+      0,
+      2
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/linkerd2_linkerd-viz.yaml",
+    "results": [
+      31,
+      32,
+      33,
+      34,
+      35,
+      55
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_odoo.yaml",
+    "results": [
+      12,
+      13
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/prometheus-community_prometheus-elasticsearch-exporter.yaml",
+    "results": [
+      1
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_rabbitmq-cluster-operator.yaml",
+    "results": [
+      20,
+      21
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/enapter_keydb.yaml",
+    "results": [
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_cassandra.yaml",
+    "results": [
+      7
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/fairwinds-stable_vpa.yaml",
+    "results": [
+      0,
+      1,
+      2,
+      20,
+      21,
+      22,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/karpenter_karpenter.yaml",
+    "results": [
+      11
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/coredns_coredns.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/kafka-ui_kafka-ui.yaml",
+    "results": [
+      2
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/docker-postfix_mail.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/prometheus-community_prometheus-redis-exporter.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/actions-runner-controller_actions-runner-controller.yaml",
+    "results": [
+      13
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/cockroachdb_cockroachdb.yaml",
+    "results": [
+      11,
+      12,
+      13,
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_discourse.yaml",
+    "results": [
+      22,
+      23,
+      24
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/kong-z_graylog.yaml",
+    "results": [
+      1,
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_kubernetes-event-exporter.yaml",
+    "results": [
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/rook_rook-ceph.yaml",
+    "results": [
+      70
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_contour.yaml",
+    "results": [
+      17,
+      18,
+      24
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/sagikazarmark_sftpgo.yaml",
+    "results": [
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/grafana_grafana-agent.yaml",
+    "results": [
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/influxdata_influxdb2.yaml",
+    "results": [
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/smallstep_step-certificates.yaml",
+    "results": [
+      11,
+      12,
+      18
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/grafana_tempo.yaml",
+    "results": [
+      0,
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_mongodb-sharded.yaml",
+    "results": [
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/deliveryhero_node-problem-detector.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/ollama-helm_ollama.yaml",
+    "results": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/opsmx_spinnaker.yaml",
+    "results": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/vector_vector.yaml",
+    "results": [
+      0,
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/strimzi_strimzi-kafka-operator.yaml",
+    "results": [
+      16
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/grafana_tempo-distributed.yaml",
+    "results": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/atlassian-data-center_confluence.yaml",
+    "results": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/jaegertracing_jaeger-operator.yaml",
+    "results": [
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/apache-solr_solr-operator.yaml",
+    "results": [
+      10,
+      11,
+      24,
+      25
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/gitlab_gitlab-agent.yaml",
+    "results": [
+      7
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/trino_trino.yaml",
+    "results": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/open-metadata_openmetadata.yaml",
+    "results": [
+      14,
+      16
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/dagster_dagster.yaml",
+    "results": [
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/datahub_datahub.yaml",
+    "results": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/community-charts_mlflow.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/stevehipwell_nexus3.yaml",
+    "results": [
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/fluxcd-community_flux2.yaml",
+    "results": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      37
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/redpanda-data_redpanda.yaml",
+    "results": [
+      1,
+      11,
+      13,
+      14,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      36,
+      37,
+      38
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/gatekeeper_gatekeeper.yaml",
+    "results": [
+      9,
+      10,
+      19,
+      20
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/codecentric_keycloakx.yaml",
+    "results": [
+      0,
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/haproxytech_kubernetes-ingress.yaml",
+    "results": [
+      0,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/helm-openldap_openldap-stack-ha.yaml",
+    "results": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/piraeus-charts_snapshot-controller.yaml",
+    "results": [
+      10,
+      11
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_tomcat.yaml",
+    "results": [
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/ceph-csi_ceph-csi-cephfs.yaml",
+    "results": [
+      12,
+      13
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/ceph-csi_ceph-csi-rbd.yaml",
+    "results": [
+      13,
+      14
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/flagger_flagger.yaml",
+    "results": [
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/keel_keel.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/headlamp_headlamp.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/policy-reporter_policy-reporter.yaml",
+    "results": [
+      7
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/chaos-mesh_chaos-mesh.yaml",
+    "results": [
+      26,
+      29,
+      30,
+      31,
+      32
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_clickhouse.yaml",
+    "results": [
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_drupal.yaml",
+    "results": [
+      12,
+      13
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/haproxytech_haproxy.yaml",
+    "results": [
+      0,
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/helm-hass_home-assistant.yaml",
+    "results": [
+      2,
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/deliveryhero_locust.yaml",
+    "results": [
+      6,
+      7
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/prometheus-community_prometheus-kafka-exporter.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/prometheus-community_prometheus-mongodb-exporter.yaml",
+    "results": [
+      3,
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/stackgres-charts_stackgres-operator.yaml",
+    "results": [
+      10,
+      19
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/victoriametrics_victoria-metrics-cluster.yaml",
+    "results": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/airbyte_airbyte.yaml",
+    "results": [
+      2,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/atlantis_atlantis.yaml",
+    "results": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/onepassword-connect_connect.yaml",
+    "results": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/meshery_meshery.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/elastic_metricbeat.yaml",
+    "results": [
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/zammad_zammad.yaml",
+    "results": [
+      4,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      34,
+      35
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/mattermost_mattermost-team-edition.yaml",
+    "results": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/node-red_node-red.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/prometheus-community_prometheus-mysql-exporter.yaml",
+    "results": [
+      2
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/fission-charts_fission-all.yaml",
+    "results": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/wiremind_clamav.yaml",
+    "results": [
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_grafana-operator.yaml",
+    "results": [
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/opensearch-project-helm-charts_opensearch-dashboards.yaml",
+    "results": [
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_redmine.yaml",
+    "results": [
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/cetic_nifi.yaml",
+    "results": [
+      6,
+      7
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/weblate_weblate.yaml",
+    "results": [
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/hirosystems_bitcoin-core.yaml",
+    "results": [
+      0,
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/eclipse-che_eclipse-che.yaml",
+    "results": [
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_matomo.yaml",
+    "results": [
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/cowboysysop_mongo-express.yaml",
+    "results": [
+      3,
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/ygqygq2_nacos.yaml",
+    "results": [
+      0,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/fairwinds-stable_polaris.yaml",
+    "results": [
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/datawire_ambassador.yaml",
+    "results": [
+      20,
+      21,
+      22,
+      42
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/emqx-operator_emqx.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/podinfo_podinfo.yaml",
+    "results": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/portainer_portainer.yaml",
+    "results": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/unleash_unleash.yaml",
+    "results": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/kubeshark-helm-charts_kubeshark.yaml",
+    "results": [
+      16,
+      17,
+      18
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/opencost_opencost.yaml",
+    "results": [
+      0,
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/qdrant_qdrant.yaml",
+    "results": [
+      4,
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/enix_san-iscsi-csi.yaml",
+    "results": [
+      5,
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/nicholaswilde_code-server.yaml",
+    "results": [
+      1
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_grafana-loki.yaml",
+    "results": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/enix_kube-image-keeper.yaml",
+    "results": [
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/stevehipwell_plantuml.yaml",
+    "results": [
+      2
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/hirosystems_stacks-blockchain.yaml",
+    "results": [
+      0,
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/armory_armory-spinnaker-operator.yaml",
+    "results": [
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/concourse_concourse.yaml",
+    "results": [
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/apache-hadoop-helm_hadoop.yaml",
+    "results": [
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/cloudposse_istio.yaml",
+    "results": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      83,
+      84
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/groundhog2k_postgres.yaml",
+    "results": [
+      2
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/prometheus-msteams_prometheus-msteams.yaml",
+    "results": [
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/percona_pxc-operator.yaml",
+    "results": [
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/kubevela_vela-core.yaml",
+    "results": [
+      18,
+      19,
+      118,
+      119,
+      120,
+      121
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/elastic_apm-server.yaml",
+    "results": [
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/camunda_camunda-platform.yaml",
+    "results": [
+      7,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/istio-official_cni.yaml",
+    "results": [
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/sonatype_nxrm-ha.yaml",
+    "results": [
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/cert-manager_trust-manager.yaml",
+    "results": [
+      10
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/deliveryhero_cluster-overprovisioner.yaml",
+    "results": [
+      2,
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/dragonfly_dragonfly.yaml",
+    "results": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/appscode_kubed.yaml",
+    "results": [
+      8
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/linkerd2_linkerd-jaeger.yaml",
+    "results": [
+      10,
+      11,
+      12,
+      40
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/containeroo_local-path-provisioner.yaml",
+    "results": [
+      7
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_moodle.yaml",
+    "results": [
+      12,
+      13
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/opensearch-operator_opensearch-operator.yaml",
+    "results": [
+      19
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_pytorch.yaml",
+    "results": [
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/fairwinds-stable_rbac-manager.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/securecodebox_juice-shop.yaml",
+    "results": [
+      1,
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/banzaicloud-stable_logging-operator.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/influxdata_telegraf.yaml",
+    "results": [
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/k8sgpt_k8sgpt-operator.yaml",
+    "results": [
+      14
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/node-feature-discovery_node-feature-discovery.yaml",
+    "results": [
+      11,
+      12,
+      13,
+      17
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/okteto_okteto.yaml",
+    "results": [
+      2,
+      3,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      66,
+      67,
+      68,
+      69,
+      70,
+      73,
+      74,
+      75
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/rasa_rasa.yaml",
+    "results": [
+      7,
+      8
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/evryfs-oss_dependency-track.yaml",
+    "results": [
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/deliveryhero_kube-downscaler.yaml",
+    "results": [
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_schema-registry.yaml",
+    "results": [
+      16,
+      17
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/cowboysysop_vertical-pod-autoscaler.yaml",
+    "results": [
+      14,
+      15,
+      16,
+      22,
+      23
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/victoriametrics_victoria-metrics-operator.yaml",
+    "results": [
+      25
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/akhq_akhq.yaml",
+    "results": [
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/grafana_alloy.yaml",
+    "results": [
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/apisix_apisix-ingress-controller.yaml",
+    "results": [
+      0,
+      4,
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/aws_aws-cloudwatch-metrics.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/aws_aws-vpc-cni.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/mongodb-helm-charts_community-operator.yaml",
+    "results": [
+      7
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/dask_dask.yaml",
+    "results": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/datawire_emissary-ingress.yaml",
+    "results": [
+      21,
+      22
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/grafana_grafana-agent-operator.yaml",
+    "results": [
+      3,
+      7
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/beryju-org_guacamole.yaml",
+    "results": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/rimusz_hostpath-provisioner.yaml",
+    "results": [
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/ory_hydra.yaml",
+    "results": [
+      9,
+      10,
+      14
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/outline_outline.yaml",
+    "results": [
+      1,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/secret-store-csi-driver_secrets-store-csi-driver.yaml",
+    "results": [
+      6,
+      16,
+      17
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/verdaccio_verdaccio.yaml",
+    "results": [
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/cetic_zabbix.yaml",
+    "results": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/graviteeio_apim3.yaml",
+    "results": [
+      11,
+      12,
+      13,
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/hpe-storage_hpe-csi-driver.yaml",
+    "results": [
+      29,
+      30,
+      31,
+      32,
+      34
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/k8tz_k8tz.yaml",
+    "results": [
+      6,
+      8
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/meilisearch-kubernetes_meilisearch.yaml",
+    "results": [
+      3,
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/openfga_openfga.yaml",
+    "results": [
+      4,
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/cilium_tetragon.yaml",
+    "results": [
+      10,
+      11
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/netapp-trident_trident-operator.yaml",
+    "results": [
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/hashicorp_vault-secrets-operator.yaml",
+    "results": [
+      28,
+      32,
+      33,
+      34
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/backube-helm-charts_volsync.yaml",
+    "results": [
+      11
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/wiremind_cerebro.yaml",
+    "results": [
+      2
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/jouve_mailpit.yaml",
+    "results": [
+      2
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/prometheus-community_prometheus-cloudwatch-exporter.yaml",
+    "results": [
+      0,
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_spring-cloud-dataflow.yaml",
+    "results": [
+      29,
+      30,
+      31,
+      32
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/smallstep_autocert.yaml",
+    "results": [
+      17,
+      18,
+      19,
+      27,
+      28
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/dgraph_dgraph.yaml",
+    "results": [
+      0,
+      5,
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/ory_kratos.yaml",
+    "results": [
+      5,
+      6,
+      9
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/seaweedfs_seaweedfs.yaml",
+    "results": [
+      0,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/signoz_signoz.yaml",
+    "results": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      44,
+      45
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/kubernetes-replicator_kubernetes-replicator.yaml",
+    "results": [
+      0,
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/grafana_lgtm-distributed.yaml",
+    "results": [
+      12,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      104,
+      105,
+      106
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/mariadb-operator_mariadb-operator.yaml",
+    "results": [
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/naps_mosquitto.yaml",
+    "results": [
+      2
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/postgres-operator_postgres-operator.yaml",
+    "results": [
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/kiwigrid_prometheus-thanos.yaml",
+    "results": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/t3n_snipeit.yaml",
+    "results": [
+      3,
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/datadog_datadog-operator.yaml",
+    "results": [
+      7
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/gadget_gadget.yaml",
+    "results": [
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/glasskube_glasskube-operator.yaml",
+    "results": [
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/kwatch_kwatch.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/makeplane_plane-ce.yaml",
+    "results": [
+      0,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/backube-helm-charts_scribe.yaml",
+    "results": [
+      9
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/stackstorm_stackstorm-ha.yaml",
+    "results": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      54,
+      55,
+      56,
+      57
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/yourls_yourls.yaml",
+    "results": [
+      9,
+      10
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bitnami_flink.yaml",
+    "results": [
+      9,
+      10
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/utkuozdemir_jellyfin.yaml",
+    "results": [
+      5
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/k8gb_k8gb.yaml",
+    "results": [
+      12,
+      13
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/wiremind_karma.yaml",
+    "results": [
+      2
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/ananace-charts_lemmy.yaml",
+    "results": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/linkerd2_linkerd2-cni.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/deliveryhero_node-local-dns.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/stenic_openvpn-as.yaml",
+    "results": [
+      8
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/oxyno-zeta_s3-proxy.yaml",
+    "results": [
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/victoriametrics_victoria-metrics-agent.yaml",
+    "results": [
+      4
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/apisix_apisix-dashboard.yaml",
+    "results": [
+      3,
+      6
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/bytebase_bytebase.yaml",
+    "results": [
+      1
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/dgraph_dgraph-lambda.yaml",
+    "results": [
+      2,
+      3
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/datawire_edge-stack.yaml",
+    "results": [
+      24,
+      25,
+      26
+    ]
+  },
+  {
+    "files": "fetch_artifacthub/assets/falcosecurity_falco-exporter.yaml",
+    "results": [
+      2
+    ]
+  }
+]

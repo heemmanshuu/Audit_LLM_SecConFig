@@ -1,0 +1,1112 @@
+{
+    "AllowPrivilegeEscalation": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_AllowPrivilegeEscalation/pod-runas1000-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_AllowPrivilegeEscalation/pod-runas1000-malformed-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_AllowPrivilegeEscalation/rootDeployment-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_AllowPrivilegeEscalation/ds-nginx-ingress-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_AllowPrivilegeEscalation/pod-to-node-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_AllowPrivilegeEscalation/nginx-app-FAILED.json"
+        ],
+        "unknown": [],
+        "type": "AllowPrivilegeEscalation"
+    },
+    "AllowedCapabilities": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_AllowedCapabilities/cronjob-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_AllowedCapabilities/nginx-deployment-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_AllowedCapabilities/cassandra-FAILED.yaml"
+        ],
+        "unknown": [
+            "github/checkov/tests/kubernetes/checks/example_AllowedCapabilities/cronjob-UNKOWN.yaml"
+        ],
+        "type": "AllowedCapabilities"
+    },
+    "AllowedCapabilitiesSysAdmin": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_AllowedCapabilitiesSysAdmin/cronjob-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_AllowedCapabilitiesSysAdmin/pod-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_AllowedCapabilitiesSysAdmin/pod-FAILED2.yaml"
+        ],
+        "unknown": [],
+        "type": "AllowedCapabilitiesSysAdmin"
+    },
+    "ApiServerAdmissionControlAlwaysAdmit": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAdmissionControlAlwaysAdmit/ApiServerAdmissionControlAlwaysAdmit-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAdmissionControlAlwaysAdmit/ApiServerAdmissionControlAlwaysAdmit-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerAdmissionControlAlwaysAdmit"
+    },
+    "ApiServerAdmissionControlEventRateLimit": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAdmissionControlEventRateLimit/ApiServerAdmissionControlEventRateLimit-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAdmissionControlEventRateLimit/ApiServerAdmissionControlEventRateLimit-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerAdmissionControlEventRateLimit"
+    },
+    "ApiServerAlwaysPullImagesPlugin": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAlwaysPullImagesPlugin/ApiServerAlwaysPullImagesPlugin-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAlwaysPullImagesPlugin/ApiServerAlwaysPullImagesPlugin-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerAlwaysPullImagesPlugin"
+    },
+    "ApiServerAnonymousAuth": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAnonymousAuth/ApiServer-AnonymousAuth-False-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAnonymousAuth/ApiServer-AnonymousAuth-Missing-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAnonymousAuth/ApiServer-AnonymousAuth-True-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerAnonymousAuth"
+    },
+    "ApiServerAuditLog": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuditLog/ApiServer-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuditLog/ApiServer-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerAuditLog"
+    },
+    "ApiServerAuditLogMaxAge": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuditLogMaxAge/ApiServer-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuditLogMaxAge/ApiServer-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerAuditLogMaxAge"
+    },
+    "ApiServerAuditLogMaxBackup": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuditLogMaxBackup/ApiServer-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuditLogMaxBackup/ApiServer-FAILED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuditLogMaxBackup/ApiServer-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerAuditLogMaxBackup"
+    },
+    "ApiServerAuditLogMaxSize": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuditLogMaxSize/ApiServer-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuditLogMaxSize/ApiServer-FAILED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuditLogMaxSize/ApiServer-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerAuditLogMaxSize"
+    },
+    "ApiServerAuthorizationModeNode": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuthorizationModeNode/ApiServer-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuthorizationModeNode/ApiServer-FAILED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuthorizationModeNode/ApiServer-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerAuthorizationModeNode"
+    },
+    "ApiServerAuthorizationModeNotAlwaysAllow": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuthorizationModeNotAlwaysAllow/ApiServer-PASSED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuthorizationModeNotAlwaysAllow/ApiServer-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuthorizationModeNotAlwaysAllow/ApiServer-FAILED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuthorizationModeNotAlwaysAllow/ApiServer-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerAuthorizationModeNotAlwaysAllow"
+    },
+    "ApiServerAuthorizationModeRBAC": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuthorizationModeRBAC/ApiServer-PASSED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuthorizationModeRBAC/ApiServer-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuthorizationModeRBAC/ApiServer-FAILED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ApiServerAuthorizationModeRBAC/ApiServer-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerAuthorizationModeRBAC"
+    },
+    "ApiServerBasicAuthFile": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerBasicAuthFile/ApiServerBasicAuthFile-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerBasicAuthFile/ApiServerBasicAuthFile-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerBasicAuthFile"
+    },
+    "ApiServerEncryptionProviders": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerEncryptionProviders/ApiServerEncryptionProviders-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerEncryptionProviders/ApiServerEncryptionProviders-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerEncryptionProviders"
+    },
+    "ApiServerEtcdCaFile": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerEtcdCaFile/example_ApiServerEtcdCaFile-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerEtcdCaFile/example_ApiServerEtcdCaFile-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerEtcdCaFile"
+    },
+    "ApiServerEtcdCertAndKey": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerEtcdCertAndKey/ApiServer-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerEtcdCertAndKey/ApiServer-FAILED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ApiServerEtcdCertAndKey/ApiServer-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerEtcdCertAndKey"
+    },
+    "ApiServerInsecureBindAddress": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerInsecureBindAddress/api-server-secure-bind-address-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerInsecureBindAddress/api-server-insecure-bind-address-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerInsecureBindAddress"
+    },
+    "ApiServerInsecurePort": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerInsecurePort/api-server-insecure-port-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerInsecurePort/api-server-insecure-port-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerInsecurePort"
+    },
+    "ApiServerKubeletClientCertAndKey": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerKubeletClientCertAndKey/ApiServer-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerKubeletClientCertAndKey/ApiServer-FAILED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ApiServerKubeletClientCertAndKey/ApiServer-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerKubeletClientCertAndKey"
+    },
+    "ApiServerKubeletHttps": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerKubeletHttps/ApiServer-PASSED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ApiServerKubeletHttps/ApiServer-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerKubeletHttps/ApiServer-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerKubeletHttps"
+    },
+    "ApiServerNamespaceLifecyclePlugin": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerNamespaceLifecyclePlugin/ApiServerNamespaceLifecyclePlugin-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerNamespaceLifecyclePlugin/ApiServerNamespaceLifecyclePlugin-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerNamespaceLifecyclePlugin"
+    },
+    "ApiServerNodeRestrictionPlugin": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerNodeRestrictionPlugin/ApiServerNodeRestrictionPlugin-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerNodeRestrictionPlugin/ApiServerNodeRestrictionPlugin-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerNodeRestrictionPlugin"
+    },
+    "ApiServerPodSecurityPolicyPlugin": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerPodSecurityPolicyPlugin/ApiServerPodSecurityPolicyPlugin-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerPodSecurityPolicyPlugin/ApiServerPodSecurityPolicyPlugin-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerPodSecurityPolicyPlugin"
+    },
+    "ApiServerProfiling": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerProfiling/ApiServer-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerProfiling/ApiServer-FAILED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ApiServerProfiling/ApiServer-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerProfiling"
+    },
+    "ApiServerRequestTimeout": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerRequestTimeout/api-server-request-timeout-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerRequestTimeout/api-server-request-timeout-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerRequestTimeout"
+    },
+    "ApiServerSecurePort": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerSecurePort/api-server-secure-port-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ApiServerSecurePort/api-server-secure-port-PASSED_2.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerSecurePort/api-server-secure-port-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerSecurePort"
+    },
+    "ApiServerSecurityContextDenyPlugin": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerSecurityContextDenyPlugin/ApiServerSecurityContextDenyPlugin-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerSecurityContextDenyPlugin/ApiServerSecurityContextDenyPlugin-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerSecurityContextDenyPlugin"
+    },
+    "ApiServerServiceAccountKeyFile": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerServiceAccountKeyFile/ApiServerServiceAccountKeyFile-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerServiceAccountKeyFile/ApiServerServiceAccountKeyFile-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerServiceAccountKeyFile"
+    },
+    "ApiServerServiceAccountLookup": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerServiceAccountLookup/ApiServer-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerServiceAccountLookup/ApiServer-FAILED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ApiServerServiceAccountLookup/ApiServer-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerServiceAccountLookup"
+    },
+    "ApiServerServiceAccountPlugin": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerServiceAccountPlugin/ApiServerServiceAccountPlugin-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerServiceAccountPlugin/ApiServerServiceAccountPlugin-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerServiceAccountPlugin"
+    },
+    "ApiServerStrongCryptographicCiphers": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerStrongCryptographicCiphers/ApiServerStrongCryptographicCiphers-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerStrongCryptographicCiphers/ApiServerStrongCryptographicCiphers-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerStrongCryptographicCiphers"
+    },
+    "ApiServerTlsCertAndKey": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerTlsCertAndKey/ApiServer-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerTlsCertAndKey/ApiServer-FAILED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ApiServerTlsCertAndKey/ApiServer-FAILED-3.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ApiServerTlsCertAndKey/ApiServer-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerTlsCertAndKey"
+    },
+    "ApiServerTokenAuthFile": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerTokenAuthFile/ApiServerTokenAuthFile-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerTokenAuthFile/ApiServerTokenAuthFile-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerTokenAuthFile"
+    },
+    "ApiServerkubeletCertificateAuthority": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerkubeletCertificateAuthority/ApiServerkubeletCertificateAuthority-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ApiServerkubeletCertificateAuthority/ApiServerkubeletCertificateAuthority-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ApiServerkubeletCertificateAuthority"
+    },
+    "ControllerManagerBindAddress": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ControllerManagerBindAddress/ControllerManagerBindAddress-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ControllerManagerBindAddress/ControllerManagerBindAddress-FAILED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ControllerManagerBindAddress/ControllerManagerBindAddress-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ControllerManagerBindAddress"
+    },
+    "DefaultNamespace": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_DefaultNamespace/default-k8s-service-and-sa-PASSED2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_DefaultNamespace/scope-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_DefaultNamespace/nginx-statefulset-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "DefaultNamespace"
+    },
+    "DefaultServiceAccount": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_DefaultServiceAccount/DefaultServiceAccount-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_DefaultServiceAccount/DefaultServiceAccount-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_DefaultServiceAccount/DefaultServiceAccount-FAILED2.yaml"
+        ],
+        "unknown": [],
+        "type": "DefaultServiceAccount"
+    },
+    "DefaultServiceAccountBinding": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_DefaultServiceAccountBinding/DefaultServiceAccountBinding-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_DefaultServiceAccountBinding/DefaultServiceAccountBinding-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "DefaultServiceAccountBinding"
+    },
+    "DockerSocketVolume": {
+        "passed": [],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_DockerSocketVolume/cloudwatch-agent-1PASSED-1FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_DockerSocketVolume/scope-2PASSED-1FAILED.yaml"
+        ],
+        "unknown": [
+            "github/checkov/tests/kubernetes/checks/example_DockerSocketVolume/CronJob-pass.yaml",
+            "github/checkov/tests/kubernetes/checks/example_DockerSocketVolume/scope-UNKNOWN.yaml"
+        ],
+        "type": "DockerSocketVolume"
+    },
+    "DropCapabilities": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_DropCapabilities/pod-drop-NET_RAW-capabilities-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_DropCapabilities/pod-drop-all-capabilities-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_DropCapabilities/pod-drop-all-capabilities-PASSED2.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_DropCapabilities/pod-drop-NET_RAW-capabilities-FAILED-MISSING.yaml",
+            "github/checkov/tests/kubernetes/checks/example_DropCapabilities/pod-drop-none-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "DropCapabilities"
+    },
+    "EtcdAutoTls": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_EtcdAutoTls/Etcd-PASSED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_EtcdAutoTls/Etcd-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_EtcdAutoTls/Etcd-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "EtcdAutoTls"
+    },
+    "EtcdCertAndKey": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_EtcdCertAndKey/Etcd-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_EtcdCertAndKey/Etcd-FAILED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_EtcdCertAndKey/Etcd-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "EtcdCertAndKey"
+    },
+    "EtcdClientCertAuth": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_EtcdClientCertAuth/Etcd-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_EtcdClientCertAuth/Etcd-FAILED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_EtcdClientCertAuth/Etcd-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "EtcdClientCertAuth"
+    },
+    "EtcdPeerFiles": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_EtcdPeerFiles/EtcdPeerFiles-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_EtcdPeerFiles/EtcdPeerFiles-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "EtcdPeerFiles"
+    },
+    "HostPort": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_HostPort/nginx-app-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_HostPort/DS-node-exporter-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_HostPort/nginx-app-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "HostPort"
+    },
+    "ImageDigest": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ImageDigest/imageWithTagAndDigest-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ImageDigest/kafka-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ImageDigest/kafka-withrepo-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ImageDigest/job-ImageTagLatest-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ImageDigest/storm-zookeeper-FAILED.json"
+        ],
+        "unknown": [],
+        "type": "ImageDigest"
+    },
+    "ImagePullPolicy": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ImagePullPolicy/cassandra-PullPolicyAlways-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ImagePullPolicy/imageWithDigest-DefaultPullPolicy-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ImagePullPolicy/imageWithDigest-PullPolicyAlways-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ImagePullPolicy/job-ImageTagLatest-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ImagePullPolicy/kafka-PullPolicyAlways-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ImagePullPolicy/storm-nimbus-ImageUntagged-PASSED.json"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ImagePullPolicy/replctrl-PullIfNotPresent-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ImagePullPolicy/wordpress-ImageTagged-DefaultPullPolicy-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": [
+            "ImagePullPolicyAlways"
+        ]
+    },
+    "ImageTagFixed": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ImageTagFixed/imageWithDigest-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ImageTagFixed/imageWithTagAndDigest-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ImageTagFixed/kafka-ImageWithRepo-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ImageTagFixed/kafka-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ImageTagFixed/job-ImageTagLatest-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ImageTagFixed/storm-zookeeper-FAILED.json"
+        ],
+        "unknown": [],
+        "type": "ImageTagFixed"
+    },
+    "KubeControllerManagerBlockProfiles": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeControllerManagerBlockProfiles/ApiServer-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeControllerManagerBlockProfiles/ApiServer-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_KubeControllerManagerBlockProfiles/ApiServer-FAILED_2.yaml"
+        ],
+        "unknown": [],
+        "type": "KubeControllerManagerBlockProfiles"
+    },
+    "KubeControllerManagerRootCAFile": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeControllerManagerRootCAFile/ApiServer-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_KubeControllerManagerRootCAFile/ApiServer-PASSED_2.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeControllerManagerRootCAFile/ApiServer-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "KubeControllerManagerRootCAFile"
+    },
+    "KubeControllerManagerServiceAccountCredentials": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeControllerManagerServiceAccountCredentials/ApiServer-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeControllerManagerServiceAccountCredentials/ApiServer-FAILED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_KubeControllerManagerServiceAccountCredentials/ApiServer-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "KubeControllerManagerServiceAccountCredentials"
+    },
+    "KubeControllerManagerServiceAccountPrivateKeyFile": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeControllerManagerServiceAccountPrivateKeyFile/ApiServer-PASSED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_KubeControllerManagerServiceAccountPrivateKeyFile/ApiServer-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeControllerManagerServiceAccountPrivateKeyFile/ApiServer-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "KubeControllerManagerServiceAccountPrivateKeyFile"
+    },
+    "KubeControllerManagerTerminatedPods": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeControllerManagerTerminatedPods/ApiServer-PASSED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_KubeControllerManagerTerminatedPods/ApiServer-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeControllerManagerTerminatedPods/ApiServer-FAILED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_KubeControllerManagerTerminatedPods/ApiServer-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "KubeControllerManagerTerminatedPods"
+    },
+    "KubeletAnonymousAuth": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletAnonymousAuth/KubeletAnonymousAuth-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletAnonymousAuth/KubeletAnonymousAuth-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "KubeletAnonymousAuth"
+    },
+    "KubeletAuthorizationModeNotAlwaysAllow": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletAuthorizationModeNotAlwaysAllow/KubeletAuthorizationModeNotAlwaysAllow-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletAuthorizationModeNotAlwaysAllow/KubeletAuthorizationModeNotAlwaysAllow-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "KubeletAuthorizationModeNotAlwaysAllow"
+    },
+    "KubeletClientCa": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletClientCa/KubeletClientCa-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletClientCa/KubeletClientCa-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "KubeletClientCa"
+    },
+    "KubeletCryptographicCiphers": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletCryptographicCiphers/KubeletCryptographicCiphers-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletCryptographicCiphers/KubeletCryptographicCiphers-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "KubeletCryptographicCiphers"
+    },
+    "KubeletHostnameOverride": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletHostnameOverride/KubeletHostnameOverride-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletHostnameOverride/KubeletHostnameOverride-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "KubeletHostnameOverride"
+    },
+    "KubeletKeyFilesSetAppropriate": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletKeyFilesSetAppropriate/KubeletKeyFilesSetAppropriate-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletKeyFilesSetAppropriate/KubeletKeyFilesSetAppropriate-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "KubeletKeyFilesSetAppropriate"
+    },
+    "KubeletMakeIptablesUtilChains": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletMakeIptablesUtilChains/KubeletMakeIptablesUtilChains-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletMakeIptablesUtilChains/KubeletMakeIptablesUtilChains-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "KubeletMakeIptablesUtilChains"
+    },
+    "KubeletProtectKernelDefaults": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletProtectKernelDefaults/KubeletProtectKernelDefaults-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletProtectKernelDefaults/KubeletProtectKernelDefaults-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "KubeletProtectKernelDefaults"
+    },
+    "KubeletReadOnlyPort": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletReadOnlyPort/KubeletReadOnlyPort-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletReadOnlyPort/KubeletReadOnlyPort-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "KubeletReadOnlyPort"
+    },
+    "KubeletStreamingConnectionIdleTimeout": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletStreamingConnectionIdleTimeout/KubeletStreamingConnectionIdleTimeout-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_KubeletStreamingConnectionIdleTimeout/KubeletStreamingConnectionIdleTimeout-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "KubeletStreamingConnectionIdleTimeout"
+    },
+    "KubernetesDashboard": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_KubernetesDashboard/nginx-deployment-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_KubernetesDashboard/kube-dashboard-no-image-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_KubernetesDashboard/kube-dashboard-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_KubernetesDashboard/nginx-deployment-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_KubernetesDashboard/kube-dashboard-no-image-FAILED.yaml"
+        ],
+        "unknown": [
+            "github/checkov/tests/kubernetes/checks/example_KubernetesDashboard/kubernetes-dashboard-deployment.yaml"
+        ],
+        "type": "KubernetesDashboard"
+    },
+    "KubletEventCapture": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_KubletEventCapture/KubletEventCapture-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_KubletEventCapture/KubletEventCapture-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "KubletEventCapture"
+    },
+    "KubletRotateCertificates": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_KubletRotateCertificates/KubletRotateCertificates-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_KubletRotateCertificates/KubletRotateCertificates-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "KubletRotateCertificates"
+    },
+    "LivenessReadiness": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_LivenessReadiness/pod-liveness-readiness-PASSED.yaml"
+        ],
+        "failed": [],
+        "unknown": [
+            "github/checkov/tests/kubernetes/checks/example_LivenessReadiness/pod-liveness-readiness-2pods.yaml"
+        ]
+    },
+    "NginxIngressCVE202125742": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_NginxIngressCVE202125742/noannotations-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_NginxIngressCVE202125742/annotation1-FAILED.yaml"
+        ],
+        "unknown": [
+            "github/checkov/tests/kubernetes/checks/example_NginxIngressCVE202125742/annotation2-nollua-PASSESONEFAILSONE.yaml",
+            "github/checkov/tests/kubernetes/checks/example_NginxIngressCVE202125742/annotation3-alias.yaml"
+        ],
+        "type": [
+            "NginxIngressCVE202125742Lua",
+            "NginxIngressCVE202125742AllSnippets",
+            "NginxIngressCVE202125742Alias"
+        ]
+    },
+    "PSP": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_PSP/psp-restricted-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_PSP/psp-most-insecure-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": [
+            "ShareHostPIDPSP",
+            "PrivilegedContainersPSP",
+            "ShareHostIPCPSP",
+            "SharedHostNetworkNamespacePSP",
+            "AllowPrivilegeEscalationPSP",
+            "RootContainersPSP",
+            "DropCapabilitiesPSP",
+            "AllowedCapabilitiesPSP",
+            "SeccompPSP",
+            "MinimizeCapabilitiesPSP"
+        ]
+    },
+    "PeerClientCertAuthTrue": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_PeerClientCertAuthTrue/PeerClientCertAuthTrue-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_PeerClientCertAuthTrue/PeerClientCertAuthTrue-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_PeerClientCertAuthTrue/PeerClientCertAuthTrue-FAILED2.yaml"
+        ],
+        "unknown": [
+            "github/checkov/tests/kubernetes/checks/example_PeerClientCertAuthTrue/PeerClientCertAuthTrue-UNKNOWN.yaml"
+        ],
+        "type": "PeerClientCertAuthTrue"
+    },
+    "PrivilegedContainers": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_PrivilegedContainers/nginx-deployment-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_PrivilegedContainers/privilegedDaemonSet-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_PrivilegedContainers/privilegedPod-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "PrivilegedContainers"
+    },
+    "RbacApproveCertificateSigningRequests": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_RbacApproveCertificateSigningRequests/clusterrole-passed-1.yaml",
+            "github/checkov/tests/kubernetes/checks/example_RbacApproveCertificateSigningRequests/clusterrole-passed-2.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_RbacApproveCertificateSigningRequests/clusterrole-failed-1.yaml",
+            "github/checkov/tests/kubernetes/checks/example_RbacApproveCertificateSigningRequests/clusterrole-failed-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_RbacApproveCertificateSigningRequests/clusterrole-failed-3.yaml"
+        ],
+        "unknown": [],
+        "type": "RbacApproveCertificateSigningRequests"
+    },
+    "RbacBindRoleBindings": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_RbacBindRoleBindings/clusterrole-passed-1.yaml",
+            "github/checkov/tests/kubernetes/checks/example_RbacBindRoleBindings/role-passed-2.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_RbacBindRoleBindings/clusterrole-failed-1.yaml",
+            "github/checkov/tests/kubernetes/checks/example_RbacBindRoleBindings/role-failed-2.yaml"
+        ],
+        "unknown": [],
+        "type": "RbacBindRoleBindings"
+    },
+    "RbacControlWebhooks": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_RbacControlWebhooks/clusterrole-passed-1.yaml",
+            "github/checkov/tests/kubernetes/checks/example_RbacControlWebhooks/clusterrole-passed-2.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_RbacControlWebhooks/clusterrole-failed-1.yaml",
+            "github/checkov/tests/kubernetes/checks/example_RbacControlWebhooks/clusterrole-failed-2.yaml"
+        ],
+        "unknown": [],
+        "type": "RbacControlWebhooks"
+    },
+    "RbacEscalateRoles": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_RbacEscalateRoles/clusterrole-passed-1.yaml",
+            "github/checkov/tests/kubernetes/checks/example_RbacEscalateRoles/role-passed-2.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_RbacEscalateRoles/clusterrole-failed-1.yaml",
+            "github/checkov/tests/kubernetes/checks/example_RbacEscalateRoles/role-failed-2.yaml"
+        ],
+        "unknown": [],
+        "type": "RbacEscalateRoles"
+    },
+    "ReadOnlyFilesystem": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ReadOnlyFilesystem/pod-readonly-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ReadOnlyFilesystem/frontend-replicaset-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ReadOnlyFilesystem/pod-readonly-false-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "ReadOnlyFilesystem"
+    },
+    "Limits": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_Requests_Limits/pod-requests-limits-2PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_Requests_Limits/cronjob-request-limit-1FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_Requests_Limits/pod-requests-limits-1FAILED1PASSED.yaml"
+        ],
+        "unknown": [
+            "github/checkov/tests/kubernetes/checks/example_Requests_Limits/pod-requests-limits-UNKNOWN.yaml",
+            "github/checkov/tests/kubernetes/checks/example_Requests_Limits/pod-requests-limits-UNKNOWN2.yaml"
+        ],
+        "type": [
+            "CPULimits",
+            "MemoryLimits",
+            "ApiServerAdmissionControlEventRateLimit"
+        ]
+    },
+    "RootContainers": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_RootContainers/rootContainersPASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_RootContainers/rootContainersFAILED-malformed-spec.yaml",
+            "github/checkov/tests/kubernetes/checks/example_RootContainers/rootContainersFAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_RootContainers/rootContainersFAILED_2.yaml"
+        ],
+        "unknown": [
+            "github/checkov/tests/kubernetes/checks/example_RootContainers/rootContainersUNKNOWN.yaml"
+        ],
+        "type": "RootContainers"
+    },
+    "RootContainersHighUID": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_RootContainersHighUID/rootContainersHighUIDPASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_RootContainersHighUID/rootContainersHighUIDFAILED.yaml"
+        ],
+        "unknown": [
+            "github/checkov/tests/kubernetes/checks/example_RootContainersHighUID/rootContainersHighUIDUNKNOWN.yaml"
+        ],
+        "type": "RootContainersHighUID"
+    },
+    "RootContainersPSP": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_RootContainersPSP/MustRunAsNonRoot-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_RootContainersPSP/RunAsUserRange-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_RootContainersPSP/RunAsUserRange-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_RootContainersPSP/psp-most-insecure-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "RootContainersPSP"
+    },
+    "RotateKubeletServerCertificate": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_RotateKubeletServerCertificate/KubeControllerManagerRotateKubeletServerCertificate-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_RotateKubeletServerCertificate/KubletRotateKubeletServerCertificate-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_RotateKubeletServerCertificate/KubeControllerManagerRotateKubeletServerCertificate-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_RotateKubeletServerCertificate/KubletRotateKubeletServerCertificate-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "RotateKubeletServerCertificate"
+    },
+    "SchedulerBindAddress": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_SchedulerBindAddress/SchedulerBindAddress-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_SchedulerBindAddress/SchedulerBindAddress-FAILED-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_SchedulerBindAddress/SchedulerBindAddress-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "SchedulerBindAddress"
+    },
+    "SchedulerProfiling": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_SchedulerProfiling/SchedulerProfiling-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_SchedulerProfiling/SchedulerProfiling-FAILED.yaml"
+        ],
+        "unknown": [],
+        "type": "SchedulerProfiling"
+    },
+    "Seccomp": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_Seccomp/cronjob-seccomp-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_Seccomp/cronjob-seccomp-PASSED2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_Seccomp/cronjob-seccomp-PASSED3.yaml",
+            "github/checkov/tests/kubernetes/checks/example_Seccomp/cronjob-seccomp-securityContext-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_Seccomp/pod-seccomp-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_Seccomp/pod-seccomp-PASSED2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_Seccomp/pod-seccomp-PASSED3.yaml",
+            "github/checkov/tests/kubernetes/checks/example_Seccomp/pod-seccomp-PASSED4.yaml",
+            "github/checkov/tests/kubernetes/checks/example_Seccomp/pod-seccomp-PASSED5.yaml",
+            "github/checkov/tests/kubernetes/checks/example_Seccomp/pod-seccomp-PASSED6.yaml",
+            "github/checkov/tests/kubernetes/checks/example_Seccomp/pod-seccomp-PASSED7.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_Seccomp/cronjob-seccomp-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_Seccomp/pod-seccomp-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_Seccomp/pod-seccomp-FAILED2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_Seccomp/pod-seccomp-FAILED3.yaml"
+        ],
+        "unknown": [
+            "github/checkov/tests/kubernetes/checks/example_Seccomp/template.yaml"
+        ],
+        "type": "Seccomp"
+    },
+    "Secrets": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_Secrets/nginx-NoSecret-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_Secrets/pod-secretVolume-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_Secrets/pod-secretEnvironment-FAILED.yaml"
+        ],
+        "unknown": [
+            "github/checkov/tests/kubernetes/checks/example_Secrets/pod-secretsEnvironment-UNKNOWN.yaml"
+        ],
+        "type": "Secrets"
+    },
+    "SecurityContexts": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_SecurityContexts/pod-container-both-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_SecurityContexts/frontend-replicaset-both-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_SecurityContexts/pod-container-FAILED_malformed_spec.yaml",
+            "github/checkov/tests/kubernetes/checks/example_SecurityContexts/podFAILED-containerPASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_SecurityContexts/podPassed-containerFailed.yaml"
+        ],
+        "unknown": [],
+        "type": [
+            "PodSecurityContext",
+            "ContainerSecurityContext",
+            "ApiServerSecurityContextDenyPlugin"
+        ]
+    },
+    "ServiceAccountTokens": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ServiceAccountTokens/ServiceAccountTokensPASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ServiceAccountTokens/ServiceAccountTokensFAILED.yaml"
+        ],
+        "unknown": [
+            "github/checkov/tests/kubernetes/checks/example_ServiceAccountTokens/ServiceAccountTokensUNKNOWN.yaml"
+        ],
+        "type": "ServiceAccountTokens"
+    },
+    "ShareHost": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_ShareHost/jenkinsDeployment-PASSED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ShareHost/memcachedStatefulSet-PASSED.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_ShareHost/cronjob-hostresources-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ShareHost/privilegedDaemonSet-FAILED.yaml",
+            "github/checkov/tests/kubernetes/checks/example_ShareHost/privilegedPod-FAILED.yaml"
+        ],
+        "unknown": [
+            "github/checkov/tests/kubernetes/checks/example_ShareHost/privilegedPod-PASS.yaml"
+        ],
+        "type": [
+            "ShareHostPIDPSP",
+            "ShareHostIPCPSP",
+            "ShareHostPID",
+            "ShareHostIPC",
+            "SharedHostNetworkNamespacePSP",
+            "SharedHostNetworkNamespace"
+        ]
+    },
+    "Suppressed": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_Suppressed/suppress-checks-PASSED.yaml"
+        ],
+        "failed": [],
+        "unknown": []
+    },
+    "Tiller": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_Tiller/nginx-deployment-PASSED.yaml"
+        ],
+        "failed": [],
+        "unknown": [
+            "github/checkov/tests/kubernetes/checks/example_Tiller/tiller-deployment.json"
+        ],
+        "type": "Tiller"
+    },
+    "TillerDeploymentListener": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_TillerDeploymentListener/tiller-deployment_PASSED_LOCALHOST.json",
+            "github/checkov/tests/kubernetes/checks/example_TillerDeploymentListener/tiller-deployment_PASSED_LOOPBACK.json"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_TillerDeploymentListener/tiller-deployment_FAILED_WRONGARG.yaml",
+            "github/checkov/tests/kubernetes/checks/example_TillerDeploymentListener/tiller-deployment_FAILED.json"
+        ],
+        "unknown": [
+            "github/checkov/tests/kubernetes/checks/example_TillerDeploymentListener/nginx-deployment-UNKNOWN.yaml"
+        ],
+        "type": "TillerDeploymentListener"
+    },
+    "TillerService": {
+        "passed": [],
+        "failed": [],
+        "unknown": [
+            "github/checkov/tests/kubernetes/checks/example_TillerService/tiller-services.yaml"
+        ],
+        "type": "TillerService"
+    },
+    "WildcardEntities": {
+        "passed": [],
+        "failed": [],
+        "unknown": [
+            "github/checkov/tests/kubernetes/checks/example_WildcardEntities/nginx-app.yaml"
+        ]
+    },
+    "WildcardRoles": {
+        "passed": [
+            "github/checkov/tests/kubernetes/checks/example_WildcardRoles/role-passed-1.yaml",
+            "github/checkov/tests/kubernetes/checks/example_WildcardRoles/role-passed-2.yaml"
+        ],
+        "failed": [
+            "github/checkov/tests/kubernetes/checks/example_WildcardRoles/role-failed-1.yaml",
+            "github/checkov/tests/kubernetes/checks/example_WildcardRoles/role-failed-2.yaml",
+            "github/checkov/tests/kubernetes/checks/example_WildcardRoles/role-failed-3.yaml"
+        ],
+        "unknown": [],
+        "type": "WildcardRoles"
+    }
+}

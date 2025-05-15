@@ -1,0 +1,15 @@
+apiVersion: extensions/v1beta1
+kind: DaemonSet
+spec:
+    template:
+        spec:
+            containers:
+            -   name: c1
+                volumeMounts:
+                -   mountPath: /tmp
+                    name: proc
+                    readOnly: false
+            volumes:
+            -   hostPath:
+                    path: /proc
+                name: proc

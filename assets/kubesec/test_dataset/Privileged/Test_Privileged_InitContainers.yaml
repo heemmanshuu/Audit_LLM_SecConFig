@@ -1,0 +1,17 @@
+apiVersion: apps/v1
+kind: Deployment
+spec:
+    template:
+        spec:
+            containers:
+            -   name: c1
+            -   name: c2
+                securityContext:
+                    privileged: true
+            initContainers:
+            -   name: init1
+                securityContext:
+                    privileged: true
+            -   name: init2
+                securityContext:
+                    privileged: false

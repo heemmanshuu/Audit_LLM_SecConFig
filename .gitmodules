@@ -1,0 +1,18 @@
+[submodule "github/kubesec"]
+	path = github/kubesec
+	url = git@github.com:controlplaneio/kubesec.git
+[submodule "github/checkov"]
+	path = github/checkov
+	url = git@github.com:bridgecrewio/checkov.git
+[submodule "github/terrascan"]
+	path = github/terrascan
+	url = git@github.com:tenable/terrascan.git
+[submodule "github/prisma-cloud-docs"]
+	path = github/prisma-cloud-docs
+	url = git@github.com:hlxsites/prisma-cloud-docs.git
+[submodule "github/trivy-checks"]
+	path = github/trivy-checks
+	url = git@github.com:aquasecurity/trivy-checks.git
+[submodule "github/kics"]
+	path = github/kics
+	url = git@github.com:Checkmarx/kics.git

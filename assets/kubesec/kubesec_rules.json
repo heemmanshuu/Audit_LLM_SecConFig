@@ -1,0 +1,334 @@
+[
+    {
+        "id": "AllowPrivilegeEscalation",
+        "selector": "containers[] .securityContext .allowPrivilegeEscalation == true",
+        "reason": "Ensure a non-root process can not gain more privileges",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": -7,
+        "advise": 0
+    },
+    {
+        "id": "ApparmorAny",
+        "selector": ".metadata .annotations .\"container.apparmor.security.beta.kubernetes.io/nginx\"",
+        "reason": "Well defined AppArmor policies may provide greater protection from unknown threats. WARNING: NOT PRODUCTION READY",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": 3,
+        "advise": 0
+    },
+    {
+        "id": "AutomountServiceAccountToken",
+        "selector": ".spec .automountServiceAccountToken == false",
+        "reason": "Disabling the automounting of Service Account Token reduces the attack surface of the API server",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": 1,
+        "advise": 0
+    },
+    {
+        "id": "CapDropAll",
+        "selector": "containers[] .securityContext .capabilities .drop | index(\"ALL\")",
+        "reason": "Drop all capabilities and add only those required to reduce syscall attack surface",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": 1,
+        "advise": 0
+    },
+    {
+        "id": "CapDropAny",
+        "selector": "containers[] .securityContext .capabilities .drop",
+        "reason": "Reducing kernel capabilities available to a container limits its attack surface",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": 1,
+        "advise": 0
+    },
+    {
+        "id": "CapSysAdmin",
+        "selector": "containers[] .securityContext .capabilities .add == SYS_ADMIN",
+        "reason": "CAP_SYS_ADMIN is the most privileged capability and should always be avoided",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": -30,
+        "advise": 0
+    },
+    {
+        "id": "DockerSock",
+        "selector": "volumes[] .hostPath .path == /var/run/docker.sock",
+        "reason": "Mounting the docker.socket leaks information about other containers and can allow container breakout",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": -9,
+        "advise": 0
+    },
+    {
+        "id": "HostAliases",
+        "selector": ".spec .hostAliases",
+        "reason": "Managing /etc/hosts aliases can prevent the container from modifying the file after a pod's containers have already been started. DNS should be managed by the orchestrator",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": -3,
+        "advise": 0
+    },
+    {
+        "id": "HostIPC",
+        "selector": ".spec .hostIPC == true",
+        "reason": "Sharing the host's IPC namespace allows container processes to communicate with processes on the host",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": -9,
+        "advise": 0
+    },
+    {
+        "id": "HostNetwork",
+        "selector": ".spec .hostNetwork == true",
+        "reason": "Sharing the host's network namespace permits processes in the pod to communicate with processes bound to the host's loopback adapter",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": -9,
+        "advise": 0
+    },
+    {
+        "id": "HostPID",
+        "selector": ".spec .hostPID == true",
+        "reason": "Sharing the host's PID namespace allows visibility of processes on the host, potentially leaking information such as environment variables and configuration",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": -9,
+        "advise": 0
+    },
+    {
+        "id": "LimitsCPU",
+        "selector": "containers[] .resources .limits .cpu",
+        "reason": "Enforcing CPU limits prevents DOS via resource exhaustion",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": 1,
+        "advise": 0
+    },
+    {
+        "id": "LimitsMemory",
+        "selector": "containers[] .resources .limits .memory",
+        "reason": "Enforcing memory limits prevents DOS via resource exhaustion",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": 1,
+        "advise": 0
+    },
+    {
+        "id": "Privileged",
+        "selector": "containers[] .securityContext .privileged == true",
+        "reason": "Privileged containers can allow almost completely unrestricted host access",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": -30,
+        "advise": 0
+    },
+    {
+        "id": "ProcMount",
+        "selector": "volumes[] .hostPath .path == /proc",
+        "reason": "Mounting the proc directory from the host system into a container gives access to information about other containers running on the same host and can allow container breakout",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": -9,
+        "advise": 0
+    },
+    {
+        "id": "ReadOnlyRootFilesystem",
+        "selector": "containers[] .securityContext .readOnlyRootFilesystem == true",
+        "reason": "An immutable root filesystem can prevent malicious binaries being added to PATH and increase attack cost",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": 1,
+        "advise": 3
+    },
+    {
+        "id": "RequestsCPU",
+        "selector": "containers[] .resources .requests .cpu",
+        "reason": "Enforcing CPU requests aids a fair balancing of resources across the cluster",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": 1,
+        "advise": 0
+    },
+    {
+        "id": "RequestsMemory",
+        "selector": "containers[] .resources .requests .memory",
+        "reason": "Enforcing memory requests aids a fair balancing of resources across the cluster",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": 1,
+        "advise": 0
+    },
+    {
+        "id": "RunAsGroup",
+        "selector": ".spec, .spec.containers[] | .securityContext .runAsGroup -gt 10000",
+        "reason": "Run as a high-UID group to avoid conflicts with the host's groups",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": 1,
+        "advise": 4
+    },
+    {
+        "id": "RunAsNonRoot",
+        "selector": ".spec, .spec.containers[] | .securityContext .runAsNonRoot == true",
+        "reason": "Force the running image to run as a non-root user to ensure least privilege",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": 1,
+        "advise": 10
+    },
+    {
+        "id": "RunAsUser",
+        "selector": ".spec, .spec.containers[] | .securityContext .runAsUser -gt 10000",
+        "reason": "Run as a high-UID user to avoid conflicts with the host's users",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": 1,
+        "advise": 4
+    },
+    {
+        "id": "SeccompAny",
+        "selector": ".metadata .annotations .\"container.seccomp.security.alpha.kubernetes.io/pod\"",
+        "reason": "Seccomp profiles set minimum privilege and secure against unknown threats",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": 1,
+        "advise": 0
+    },
+    {
+        "id": "SeccompUnconfined",
+        "selector": ".metadata .annotations .\"container.seccomp.security.alpha.kubernetes.io/pod\"",
+        "reason": "Unconfined Seccomp profiles have full system call access",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": -1,
+        "advise": 0
+    },
+    {
+        "id": "ServiceAccountName",
+        "selector": ".spec .serviceAccountName",
+        "reason": "Service accounts restrict Kubernetes API access and should be configured with least privilege",
+        "kinds": [
+            "Pod",
+            "Deployment",
+            "StatefulSet",
+            "DaemonSet"
+        ],
+        "points": 3,
+        "advise": 0
+    },
+    {
+        "id": "VolumeClaimAccessModeReadWriteOnce",
+        "selector": ".spec .volumeClaimTemplates[] .spec .accessModes | index(\"ReadWriteOnce\")",
+        "reason": "Setting the access mode of ReadWriteOnce on volumeClaimTemplates (if any exist) allows only one node to mount the persistentVolume",
+        "kinds": [
+            "StatefulSet"
+        ],
+        "points": 1,
+        "advise": 0
+    },
+    {
+        "id": "VolumeClaimRequestsStorage",
+        "selector": ".spec .volumeClaimTemplates[] .spec .resources .requests .storage",
+        "reason": "Setting a storage request on volumeClaimTemplates (if any exist) allows for the StatefulSet's PVCs to be bound to appropriately sized PVs.",
+        "kinds": [
+            "StatefulSet"
+        ],
+        "points": 1,
+        "advise": 0
+    }
+]
