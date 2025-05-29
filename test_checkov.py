@@ -274,7 +274,9 @@ def run(use_async=False, concurrency=3, mode: Literal["all", "raw", "code", "pri
 
     os.makedirs(SAVE_RESULT_DIR, exist_ok=True)
 
-    testset = load_test_data("fetch_artifacthub/gathered/top_1000_split_files.json")
+    testset = load_test_data("fetch_artifacthub/ga" \
+    "" \
+    "thered/top_1000_split_files.json")
     # testset = testset[::-1]
     model = llms.create_llm(llms.get_llm(LLM_NAME))
 
