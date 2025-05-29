@@ -26,9 +26,9 @@ def get_file_name_from_raw(item):
     return f"{repo}_{app}"
 
 # Load input files
-with open("fetch_artifacthub/gathered/raw_final_results.json") as f:
+with open("gathered/raw_final_results.json") as f:
     raw = json.load(f)
-with open("fetch_artifacthub/gathered/split_files.json") as f:
+with open("gathered/split_files.json") as f:
     split = json.load(f)
 
 # Generate filename stems from raw data
@@ -44,7 +44,7 @@ split_with_order.sort(key=lambda x: x[0])
 split = [item[1] for item in split_with_order]
 
 # Save reordered complete set
-with open("fetch_artifacthub/gathered/split_files.json", "w") as f:
+with open("gathered/split_files.json", "w") as f:
     json.dump(split, f, indent=2)
 
 # Generate top 1000 subset
@@ -62,7 +62,7 @@ for item in split:
         break
 
 # Save top 1000 subset
-with open("fetch_artifacthub/gathered/top_1000_split_files.json", "w") as f:
+with open("gathered/top_1000_split_files.json", "w") as f:
     json.dump(top_1000, f, indent=2)
 
 print(top_1000)

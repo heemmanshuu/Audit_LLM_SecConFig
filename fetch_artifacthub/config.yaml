@@ -1,7 +1,7 @@
 # Package Fetcher Configuration
 
 # Number of concurrent requests
-concurrency: 50
+concurrency: 10 # was 50
 
 # URL to fetch proxy list from
 proxy_list_url: "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt"
@@ -28,7 +28,7 @@ limit: 60
 retry_wait_period: 10s
 
 # Timeout for proxy checks (in seconds)
-proxy_timeout: 5s
+proxy_timeout: 10s # was 5s
 
 # Whether to use proxies or not
-use_proxies: true
+use_proxies: false # was true

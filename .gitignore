@@ -1,1 +1,4 @@
 .DS_Store
+fetch_artifacthub/package_data/
+fetch_artifacthub/assets/
+*.pyc

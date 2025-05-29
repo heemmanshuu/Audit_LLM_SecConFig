@@ -1019,3 +1019,1932 @@
 2024/09/13 12:12:08 fetch_artifacthub.go:255: Using proxy: 164.70.117.176:3128
 2024/09/13 12:12:10 fetch_artifacthub.go:323: Received response: Status: 200, Body length: 43345
 2024/09/13 12:12:10 fetch_artifacthub.go:394: Saved raw JSON to package_data/packages_raw_6660.json
+2025/05/26 14:51:41 fetch_artifacthub.go:232: Starting package fetcher...
+2025/05/26 14:51:46 fetch_artifacthub.go:191: Fetched and validated 0 proxies out of 1895
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:46 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 53355
+2025/05/26 14:51:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_60.json
+2025/05/26 14:51:48 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50178
+2025/05/26 14:51:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1860.json
+2025/05/26 14:51:49 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48163
+2025/05/26 14:51:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1500.json
+2025/05/26 14:51:49 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50718
+2025/05/26 14:51:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_600.json
+2025/05/26 14:51:49 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 53923
+2025/05/26 14:51:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_120.json
+2025/05/26 14:51:49 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 54115
+2025/05/26 14:51:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_180.json
+2025/05/26 14:51:49 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 51494
+2025/05/26 14:51:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_420.json
+2025/05/26 14:51:49 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49222
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1260.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 52381
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1620.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 51487
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1920.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 54379
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_0.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 51521
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_780.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 51481
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1560.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 52901
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_360.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 52173
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_540.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50029
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_720.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49478
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1320.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 51301
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1140.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 52565
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_240.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49930
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1080.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49399
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_900.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48085
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2880.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48445
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1740.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 51700
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_480.json
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50108
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2940.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 52208
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_300.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50625
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_960.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 53543
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2460.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49151
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49577
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2100.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2760.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48535
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2520.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 51001
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1020.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50053
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2280.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47812
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1380.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50978
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1980.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50547
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1200.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 52493
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_660.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49217
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2640.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48876
+2025/05/26 14:51:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_840.json
+2025/05/26 14:51:50 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:51 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48834
+2025/05/26 14:51:51 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1800.json
+2025/05/26 14:51:51 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:51 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48487
+2025/05/26 14:51:51 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1680.json
+2025/05/26 14:51:51 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:51 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48446
+2025/05/26 14:51:51 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1440.json
+2025/05/26 14:51:51 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:51 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47640
+2025/05/26 14:51:51 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2700.json
+2025/05/26 14:51:51 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:51 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 51359
+2025/05/26 14:51:51 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2160.json
+2025/05/26 14:51:51 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:51 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48592
+2025/05/26 14:51:51 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2580.json
+2025/05/26 14:51:51 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:51 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49012
+2025/05/26 14:51:51 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2820.json
+2025/05/26 14:51:51 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:51 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50204
+2025/05/26 14:51:51 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2220.json
+2025/05/26 14:51:51 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:51 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49937
+2025/05/26 14:51:51 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2400.json
+2025/05/26 14:51:51 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:51 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50345
+2025/05/26 14:51:51 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2340.json
+2025/05/26 14:51:51 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:52 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 51800
+2025/05/26 14:51:52 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2040.json
+2025/05/26 14:51:52 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:52 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49848
+2025/05/26 14:51:52 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3240.json
+2025/05/26 14:51:52 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:52 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47076
+2025/05/26 14:51:52 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3000.json
+2025/05/26 14:51:52 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:52 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47393
+2025/05/26 14:51:52 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3060.json
+2025/05/26 14:51:52 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:53 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49159
+2025/05/26 14:51:53 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46068
+2025/05/26 14:51:53 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3120.json
+2025/05/26 14:51:53 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:53 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3480.json
+2025/05/26 14:51:53 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:53 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47900
+2025/05/26 14:51:53 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4140.json
+2025/05/26 14:51:53 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:53 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47478
+2025/05/26 14:51:53 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3360.json
+2025/05/26 14:51:53 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:53 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50861
+2025/05/26 14:51:53 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3180.json
+2025/05/26 14:51:53 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:53 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47109
+2025/05/26 14:51:53 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3960.json
+2025/05/26 14:51:53 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:53 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47655
+2025/05/26 14:51:53 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3600.json
+2025/05/26 14:51:53 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:53 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48056
+2025/05/26 14:51:53 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3540.json
+2025/05/26 14:51:53 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:53 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49818
+2025/05/26 14:51:53 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4620.json
+2025/05/26 14:51:53 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:53 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47156
+2025/05/26 14:51:53 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3840.json
+2025/05/26 14:51:53 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:53 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48946
+2025/05/26 14:51:53 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3660.json
+2025/05/26 14:51:53 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:53 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45424
+2025/05/26 14:51:53 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4260.json
+2025/05/26 14:51:53 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:53 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48187
+2025/05/26 14:51:53 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3780.json
+2025/05/26 14:51:53 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:53 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50210
+2025/05/26 14:51:53 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3300.json
+2025/05/26 14:51:53 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:53 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45966
+2025/05/26 14:51:53 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3900.json
+2025/05/26 14:51:53 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:54 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48602
+2025/05/26 14:51:54 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3420.json
+2025/05/26 14:51:54 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:54 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48240
+2025/05/26 14:51:54 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4200.json
+2025/05/26 14:51:54 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:54 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47053
+2025/05/26 14:51:54 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5220.json
+2025/05/26 14:51:54 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:54 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47855
+2025/05/26 14:51:54 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4860.json
+2025/05/26 14:51:54 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:54 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46827
+2025/05/26 14:51:54 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4920.json
+2025/05/26 14:51:54 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:54 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48130
+2025/05/26 14:51:54 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3720.json
+2025/05/26 14:51:54 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:54 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47632
+2025/05/26 14:51:54 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4080.json
+2025/05/26 14:51:54 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:54 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46318
+2025/05/26 14:51:54 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4380.json
+2025/05/26 14:51:54 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:54 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48603
+2025/05/26 14:51:54 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5160.json
+2025/05/26 14:51:54 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:54 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48550
+2025/05/26 14:51:54 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46289
+2025/05/26 14:51:54 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4980.json
+2025/05/26 14:51:54 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4020.json
+2025/05/26 14:51:54 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:54 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:54 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47373
+2025/05/26 14:51:54 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4740.json
+2025/05/26 14:51:54 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:54 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47224
+2025/05/26 14:51:54 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4500.json
+2025/05/26 14:51:54 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:54 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47976
+2025/05/26 14:51:54 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5040.json
+2025/05/26 14:51:54 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:54 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47791
+2025/05/26 14:51:54 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5880.json
+2025/05/26 14:51:54 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:54 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46578
+2025/05/26 14:51:54 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4320.json
+2025/05/26 14:51:54 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:54 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47315
+2025/05/26 14:51:54 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4800.json
+2025/05/26 14:51:54 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:54 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46589
+2025/05/26 14:51:54 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5280.json
+2025/05/26 14:51:54 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:55 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46860
+2025/05/26 14:51:55 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4680.json
+2025/05/26 14:51:55 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:55 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48201
+2025/05/26 14:51:55 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4560.json
+2025/05/26 14:51:55 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:55 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47718
+2025/05/26 14:51:55 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5400.json
+2025/05/26 14:51:55 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:55 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48102
+2025/05/26 14:51:55 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5340.json
+2025/05/26 14:51:55 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:55 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46901
+2025/05/26 14:51:55 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5580.json
+2025/05/26 14:51:55 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:55 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46570
+2025/05/26 14:51:55 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4440.json
+2025/05/26 14:51:55 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:55 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46762
+2025/05/26 14:51:55 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5760.json
+2025/05/26 14:51:55 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:55 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46248
+2025/05/26 14:51:55 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5100.json
+2025/05/26 14:51:55 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:55 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48235
+2025/05/26 14:51:55 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5520.json
+2025/05/26 14:51:55 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:55 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47216
+2025/05/26 14:51:55 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5820.json
+2025/05/26 14:51:55 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:55 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46793
+2025/05/26 14:51:55 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5940.json
+2025/05/26 14:51:55 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:55 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46033
+2025/05/26 14:51:55 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5460.json
+2025/05/26 14:51:55 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:55 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49301
+2025/05/26 14:51:55 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6000.json
+2025/05/26 14:51:55 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:55 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48654
+2025/05/26 14:51:55 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5640.json
+2025/05/26 14:51:56 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:56 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48172
+2025/05/26 14:51:56 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6060.json
+2025/05/26 14:51:56 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:56 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46103
+2025/05/26 14:51:56 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5700.json
+2025/05/26 14:51:56 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:57 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49830
+2025/05/26 14:51:57 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6120.json
+2025/05/26 14:51:57 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:57 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49531
+2025/05/26 14:51:57 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6180.json
+2025/05/26 14:51:57 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:57 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47005
+2025/05/26 14:51:57 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6240.json
+2025/05/26 14:51:57 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:57 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46939
+2025/05/26 14:51:57 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6660.json
+2025/05/26 14:51:57 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:57 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49139
+2025/05/26 14:51:57 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6420.json
+2025/05/26 14:51:57 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44599
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7860.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46579
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6300.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43229
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7440.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45944
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7260.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45342
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7560.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45013
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7980.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44547
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7500.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46691
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6600.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46455
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6720.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46124
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7320.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44506
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8400.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47727
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7200.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46832
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6480.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47055
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8040.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44602
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7800.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43464
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7680.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47931
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6900.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48659
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6960.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46002
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47785
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7380.json
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6780.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47334
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6360.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47160
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7020.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:58 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46801
+2025/05/26 14:51:58 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7140.json
+2025/05/26 14:51:58 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45608
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6840.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47276
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7080.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46311
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8880.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45352
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43976
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8580.json
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8340.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46220
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7740.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44872
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7920.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45845
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6540.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 42608
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8220.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46083
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7620.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46836
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8280.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45941
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8100.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45174
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8160.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45518
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8820.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45360
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8640.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45062
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8520.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45592
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8460.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44807
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8760.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46012
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9120.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:51:59 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45734
+2025/05/26 14:51:59 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8700.json
+2025/05/26 14:51:59 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:00 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46134
+2025/05/26 14:52:00 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9240.json
+2025/05/26 14:52:00 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:00 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45189
+2025/05/26 14:52:00 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8940.json
+2025/05/26 14:52:00 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:00 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43425
+2025/05/26 14:52:00 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9300.json
+2025/05/26 14:52:00 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43827
+2025/05/26 14:52:00 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:00 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9060.json
+2025/05/26 14:52:00 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:00 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44724
+2025/05/26 14:52:00 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9000.json
+2025/05/26 14:52:00 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:01 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46999
+2025/05/26 14:52:01 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9180.json
+2025/05/26 14:52:01 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:01 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48481
+2025/05/26 14:52:01 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9480.json
+2025/05/26 14:52:01 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:02 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 53258
+2025/05/26 14:52:02 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9840.json
+2025/05/26 14:52:02 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:02 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43334
+2025/05/26 14:52:02 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9600.json
+2025/05/26 14:52:02 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:02 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:02 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:02 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:02 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47029
+2025/05/26 14:52:02 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9660.json
+2025/05/26 14:52:02 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:02 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44570
+2025/05/26 14:52:02 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9360.json
+2025/05/26 14:52:02 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:02 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:02 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:02 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:02 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45048
+2025/05/26 14:52:02 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9420.json
+2025/05/26 14:52:02 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:02 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44964
+2025/05/26 14:52:02 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10080.json
+2025/05/26 14:52:02 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:02 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47498
+2025/05/26 14:52:02 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10140.json
+2025/05/26 14:52:02 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:02 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44747
+2025/05/26 14:52:02 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10200.json
+2025/05/26 14:52:02 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:02 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:02 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:02 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:02 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:02 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:02 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:02 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:02 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:02 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:02 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:02 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:02 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:02 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:02 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:02 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:03 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46771
+2025/05/26 14:52:03 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9540.json
+2025/05/26 14:52:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:03 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46453
+2025/05/26 14:52:03 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9780.json
+2025/05/26 14:52:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:03 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43972
+2025/05/26 14:52:03 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9720.json
+2025/05/26 14:52:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:03 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:03 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43841
+2025/05/26 14:52:03 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11880.json
+2025/05/26 14:52:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:03 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:03 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45945
+2025/05/26 14:52:03 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12180.json
+2025/05/26 14:52:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:03 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43703
+2025/05/26 14:52:03 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12000.json
+2025/05/26 14:52:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:03 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44077
+2025/05/26 14:52:03 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12060.json
+2025/05/26 14:52:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:03 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 52892
+2025/05/26 14:52:03 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9900.json
+2025/05/26 14:52:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:03 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:03 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45908
+2025/05/26 14:52:03 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:03 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12120.json
+2025/05/26 14:52:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:03 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48311
+2025/05/26 14:52:03 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11940.json
+2025/05/26 14:52:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:03 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46078
+2025/05/26 14:52:03 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47454
+2025/05/26 14:52:03 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11580.json
+2025/05/26 14:52:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:03 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11220.json
+2025/05/26 14:52:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:03 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:03 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47067
+2025/05/26 14:52:03 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10800.json
+2025/05/26 14:52:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:03 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:03 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45898
+2025/05/26 14:52:03 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11640.json
+2025/05/26 14:52:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:03 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:03 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:03 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49204
+2025/05/26 14:52:03 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10620.json
+2025/05/26 14:52:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:03 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:03 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44587
+2025/05/26 14:52:03 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9960.json
+2025/05/26 14:52:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:03 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:03 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45473
+2025/05/26 14:52:03 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11160.json
+2025/05/26 14:52:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:03 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:03 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:03 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:03 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48640
+2025/05/26 14:52:03 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:03 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:03 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12300.json
+2025/05/26 14:52:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45858
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12240.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46320
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11400.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45377
+2025/05/26 14:52:04 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11340.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44611
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11700.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46769
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10560.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45889
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10440.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45776
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10320.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45666
+2025/05/26 14:52:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11760.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47016
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11040.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46163
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10860.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43399
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11520.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44484
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11280.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47446
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10920.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45797
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11100.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44053
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10740.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43636
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11460.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46423
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10680.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45567
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47186
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11820.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10260.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44801
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10500.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44288
+2025/05/26 14:52:04 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10380.json
+2025/05/26 14:52:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:04 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:05 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46587
+2025/05/26 14:52:05 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10020.json
+2025/05/26 14:52:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:05 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45953
+2025/05/26 14:52:05 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10980.json
+2025/05/26 14:52:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:298: Attempt 1 failed: Too Many Requests
+2025/05/26 14:52:05 fetch_artifacthub.go:311: Request failed. Retrying in 10s...
+2025/05/26 14:52:12 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:12 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:12 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:12 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:12 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:12 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:12 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:12 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:12 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:12 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:13 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:13 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:13 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:13 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:13 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:13 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:13 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:13 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:13 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:13 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:13 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:13 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:13 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:13 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:13 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:13 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:13 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:13 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:13 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:13 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:13 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:13 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:13 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:13 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:13 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:13 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:13 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:13 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:13 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:13 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:13 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:13 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:13 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:13 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:13 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:13 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:13 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:13 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:14 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:14 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:14 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:14 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:14 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:14 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:14 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:14 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:14 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:14 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:14 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:15 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:15 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:15 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:15 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:15 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:15 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:15 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:15 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:15 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:15 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:15 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:15 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:15 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:15 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:15 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:15 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:15 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:15 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:15 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:15 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:15 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:15 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:15 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:15 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:15 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:15 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:15 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:15 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:15 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:16 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:16 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:16 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:16 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:16 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:16 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:16 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:16 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:16 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:16 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:16 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:16 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:16 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:16 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:16 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:16 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:16 fetch_artifacthub.go:298: Attempt 2 failed: Too Many Requests
+2025/05/26 14:52:16 fetch_artifacthub.go:311: Request failed. Retrying in 20s...
+2025/05/26 14:52:33 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:33 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:33 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:33 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:33 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:33 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:33 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:33 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:33 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:33 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:33 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:33 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:33 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:33 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:33 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:33 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:33 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:33 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:34 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:34 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:34 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:34 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:34 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:34 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:35 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:35 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:35 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:35 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:35 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:35 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:35 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:35 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:35 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:35 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:35 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:35 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:35 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:35 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:35 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:35 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:36 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:36 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:36 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:36 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:36 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:36 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:36 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:36 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:36 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:36 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:36 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:36 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:36 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:36 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:36 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:36 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:36 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:52:37 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:37 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:37 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:37 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:37 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:37 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:52:37 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:52:37 fetch_artifacthub.go:298: Attempt 3 failed: Too Many Requests
+2025/05/26 14:52:37 fetch_artifacthub.go:311: Request failed. Retrying in 30s...
+2025/05/26 14:53:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:03 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:03 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:03 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:03 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:03 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:03 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:03 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:04 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:04 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:04 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:04 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:04 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:04 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:04 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:04 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:04 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:04 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:04 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:04 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:04 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:04 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:04 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:04 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:04 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:04 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:05 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:05 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:05 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:06 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:06 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:06 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:06 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:06 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:06 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:06 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:06 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:06 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:06 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:06 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:06 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:06 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:06 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:06 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:06 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:06 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:06 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:06 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:06 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:06 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:06 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:06 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:06 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:06 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:06 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:07 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:07 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:07 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:07 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:07 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:07 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:07 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:07 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:07 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:07 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:07 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:07 fetch_artifacthub.go:286: No proxy available, using direct connection
+2025/05/26 14:53:07 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:07 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:07 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:07 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:07 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:07 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:07 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:07 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:07 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:53:07 fetch_artifacthub.go:372: Request error: Too Many Requests
+2025/05/26 14:53:07 fetch_artifacthub.go:298: Attempt 4 failed: Too Many Requests
+2025/05/26 14:53:07 fetch_artifacthub.go:311: Request failed. Retrying in 40s...
+2025/05/26 14:54:37 fetch_artifacthub.go:232: Starting package fetcher...
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 53923
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_120.json
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 51700
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_480.json
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 52565
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_240.json
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 52208
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_300.json
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 52493
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_660.json
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50718
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_600.json
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 53355
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_60.json
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 52901
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_360.json
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 51494
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_420.json
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 54379
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_0.json
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 51521
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_780.json
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50029
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_720.json
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 52173
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_540.json
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49399
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_900.json
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 54115
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_180.json
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48876
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_840.json
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50547
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1200.json
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50625
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_960.json
+2025/05/26 14:54:38 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 51001
+2025/05/26 14:54:38 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1020.json
+2025/05/26 14:54:39 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49222
+2025/05/26 14:54:39 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1260.json
+2025/05/26 14:54:39 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 51301
+2025/05/26 14:54:39 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1140.json
+2025/05/26 14:54:39 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49930
+2025/05/26 14:54:39 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48163
+2025/05/26 14:54:39 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1080.json
+2025/05/26 14:54:39 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1500.json
+2025/05/26 14:54:39 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 52381
+2025/05/26 14:54:39 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1620.json
+2025/05/26 14:54:39 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 51481
+2025/05/26 14:54:39 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1560.json
+2025/05/26 14:54:39 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50978
+2025/05/26 14:54:39 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1980.json
+2025/05/26 14:54:39 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47812
+2025/05/26 14:54:39 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1380.json
+2025/05/26 14:54:39 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48834
+2025/05/26 14:54:39 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49577
+2025/05/26 14:54:39 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1800.json
+2025/05/26 14:54:39 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2100.json
+2025/05/26 14:54:39 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48445
+2025/05/26 14:54:39 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1740.json
+2025/05/26 14:54:39 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48446
+2025/05/26 14:54:39 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1440.json
+2025/05/26 14:54:39 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49478
+2025/05/26 14:54:39 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1320.json
+2025/05/26 14:54:39 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 51487
+2025/05/26 14:54:39 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1920.json
+2025/05/26 14:54:39 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 53543
+2025/05/26 14:54:39 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2460.json
+2025/05/26 14:54:39 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50178
+2025/05/26 14:54:39 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1860.json
+2025/05/26 14:54:39 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48487
+2025/05/26 14:54:39 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_1680.json
+2025/05/26 14:54:40 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50053
+2025/05/26 14:54:40 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50345
+2025/05/26 14:54:40 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2280.json
+2025/05/26 14:54:40 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2340.json
+2025/05/26 14:54:40 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 51800
+2025/05/26 14:54:40 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2040.json
+2025/05/26 14:54:40 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50204
+2025/05/26 14:54:40 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2220.json
+2025/05/26 14:54:40 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49012
+2025/05/26 14:54:40 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2820.json
+2025/05/26 14:54:40 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 51359
+2025/05/26 14:54:40 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2160.json
+2025/05/26 14:54:40 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49937
+2025/05/26 14:54:40 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2400.json
+2025/05/26 14:54:40 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48085
+2025/05/26 14:54:40 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2880.json
+2025/05/26 14:54:40 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48592
+2025/05/26 14:54:40 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2580.json
+2025/05/26 14:54:40 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49151
+2025/05/26 14:54:40 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2760.json
+2025/05/26 14:54:40 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50108
+2025/05/26 14:54:40 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2940.json
+2025/05/26 14:54:40 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48535
+2025/05/26 14:54:40 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2520.json
+2025/05/26 14:54:40 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49159
+2025/05/26 14:54:40 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3120.json
+2025/05/26 14:54:40 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47393
+2025/05/26 14:54:40 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3060.json
+2025/05/26 14:54:40 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47640
+2025/05/26 14:54:40 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2700.json
+2025/05/26 14:54:40 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49217
+2025/05/26 14:54:40 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_2640.json
+2025/05/26 14:54:40 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47076
+2025/05/26 14:54:40 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3000.json
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46068
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3480.json
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47478
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47655
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3600.json
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3360.json
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50210
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3300.json
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50861
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3180.json
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48602
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3420.json
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47156
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3840.json
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47109
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3960.json
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48130
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3720.json
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49848
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3240.json
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48187
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3780.json
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47900
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4140.json
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47632
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4080.json
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48056
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3540.json
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48240
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4200.json
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48201
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4560.json
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46578
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4320.json
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45966
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3900.json
+2025/05/26 14:54:41 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46318
+2025/05/26 14:54:41 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4380.json
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47224
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4500.json
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47373
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4740.json
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48946
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_3660.json
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48550
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4980.json
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49818
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4620.json
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46289
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47855
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4020.json
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4860.json
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46248
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5100.json
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45424
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4260.json
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46570
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4440.json
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46033
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5460.json
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47315
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4800.json
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46589
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5280.json
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46860
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4680.json
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48654
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5640.json
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48235
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5520.json
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47718
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5400.json
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47216
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5820.json
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47053
+2025/05/26 14:54:42 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46827
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_4920.json
+2025/05/26 14:54:42 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5220.json
+2025/05/26 14:54:43 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48603
+2025/05/26 14:54:43 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5160.json
+2025/05/26 14:54:43 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48102
+2025/05/26 14:54:43 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5340.json
+2025/05/26 14:54:43 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46793
+2025/05/26 14:54:43 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5940.json
+2025/05/26 14:54:43 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47976
+2025/05/26 14:54:43 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5040.json
+2025/05/26 14:54:43 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46901
+2025/05/26 14:54:43 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5580.json
+2025/05/26 14:54:43 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46762
+2025/05/26 14:54:43 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5760.json
+2025/05/26 14:54:43 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47005
+2025/05/26 14:54:43 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6240.json
+2025/05/26 14:54:43 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47791
+2025/05/26 14:54:43 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5880.json
+2025/05/26 14:54:43 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46103
+2025/05/26 14:54:43 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_5700.json
+2025/05/26 14:54:43 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47334
+2025/05/26 14:54:43 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6360.json
+2025/05/26 14:54:43 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45845
+2025/05/26 14:54:43 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6540.json
+2025/05/26 14:54:43 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49531
+2025/05/26 14:54:43 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6180.json
+2025/05/26 14:54:43 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49301
+2025/05/26 14:54:43 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6000.json
+2025/05/26 14:54:43 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49139
+2025/05/26 14:54:43 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6420.json
+2025/05/26 14:54:43 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47785
+2025/05/26 14:54:43 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6780.json
+2025/05/26 14:54:43 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48172
+2025/05/26 14:54:43 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6060.json
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46579
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6300.json
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49830
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6120.json
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47276
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7080.json
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46801
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7140.json
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48659
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6960.json
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46455
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6720.json
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46832
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6480.json
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46691
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6600.json
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46939
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6660.json
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47160
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7020.json
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46083
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7620.json
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45608
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6840.json
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45342
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7560.json
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47931
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_6900.json
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44547
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7500.json
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46124
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7320.json
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45944
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47727
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7260.json
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7200.json
+2025/05/26 14:54:44 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43229
+2025/05/26 14:54:44 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7440.json
+2025/05/26 14:54:45 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47055
+2025/05/26 14:54:45 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8040.json
+2025/05/26 14:54:45 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45941
+2025/05/26 14:54:45 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8100.json
+2025/05/26 14:54:45 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45013
+2025/05/26 14:54:45 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7980.json
+2025/05/26 14:54:45 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46002
+2025/05/26 14:54:45 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7380.json
+2025/05/26 14:54:45 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 42608
+2025/05/26 14:54:45 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8220.json
+2025/05/26 14:54:45 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43464
+2025/05/26 14:54:45 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7680.json
+2025/05/26 14:54:45 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45174
+2025/05/26 14:54:45 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8160.json
+2025/05/26 14:54:45 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46220
+2025/05/26 14:54:45 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7740.json
+2025/05/26 14:54:45 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46836
+2025/05/26 14:54:45 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8280.json
+2025/05/26 14:54:45 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45062
+2025/05/26 14:54:45 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8520.json
+2025/05/26 14:54:45 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44602
+2025/05/26 14:54:45 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7800.json
+2025/05/26 14:54:45 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43976
+2025/05/26 14:54:45 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8340.json
+2025/05/26 14:54:45 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44872
+2025/05/26 14:54:45 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7920.json
+2025/05/26 14:54:45 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44599
+2025/05/26 14:54:45 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_7860.json
+2025/05/26 14:54:45 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45734
+2025/05/26 14:54:45 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8700.json
+2025/05/26 14:54:45 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44506
+2025/05/26 14:54:45 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8400.json
+2025/05/26 14:54:45 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45352
+2025/05/26 14:54:45 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8580.json
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45592
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8460.json
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44807
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46311
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8760.json
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8880.json
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44570
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9360.json
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45360
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8640.json
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44724
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9000.json
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45189
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45518
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8940.json
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_8820.json
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46012
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9120.json
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43827
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9060.json
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46453
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9780.json
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43425
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9300.json
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46134
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9240.json
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46771
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9540.json
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46999
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9180.json
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43972
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9720.json
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45048
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9420.json
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43334
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46587
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9600.json
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10020.json
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47498
+2025/05/26 14:54:46 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10140.json
+2025/05/26 14:54:46 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47029
+2025/05/26 14:54:47 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9660.json
+2025/05/26 14:54:47 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 52892
+2025/05/26 14:54:47 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9900.json
+2025/05/26 14:54:47 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45776
+2025/05/26 14:54:47 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44747
+2025/05/26 14:54:47 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10320.json
+2025/05/26 14:54:47 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10200.json
+2025/05/26 14:54:47 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48481
+2025/05/26 14:54:47 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9480.json
+2025/05/26 14:54:47 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44587
+2025/05/26 14:54:47 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9960.json
+2025/05/26 14:54:47 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44801
+2025/05/26 14:54:47 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10500.json
+2025/05/26 14:54:47 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44964
+2025/05/26 14:54:47 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10080.json
+2025/05/26 14:54:47 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 53258
+2025/05/26 14:54:47 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_9840.json
+2025/05/26 14:54:47 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47186
+2025/05/26 14:54:47 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10260.json
+2025/05/26 14:54:47 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44288
+2025/05/26 14:54:47 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10380.json
+2025/05/26 14:54:47 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47016
+2025/05/26 14:54:47 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11040.json
+2025/05/26 14:54:47 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46769
+2025/05/26 14:54:47 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10560.json
+2025/05/26 14:54:47 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45953
+2025/05/26 14:54:47 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10980.json
+2025/05/26 14:54:47 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 49204
+2025/05/26 14:54:47 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10620.json
+2025/05/26 14:54:47 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46423
+2025/05/26 14:54:47 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10680.json
+2025/05/26 14:54:47 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45377
+2025/05/26 14:54:47 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11340.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45889
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10440.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45473
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11160.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45797
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11100.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44053
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10740.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45898
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11640.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46320
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11400.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46163
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10860.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47067
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10800.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43399
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11520.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45666
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11760.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47446
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_10920.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44611
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11700.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47454
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11220.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43703
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12000.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44484
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11280.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43841
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11880.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45908
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12120.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46078
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11580.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47085
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12360.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48640
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12300.json
+2025/05/26 14:54:48 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46907
+2025/05/26 14:54:48 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12420.json
+2025/05/26 14:54:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43636
+2025/05/26 14:54:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11460.json
+2025/05/26 14:54:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45945
+2025/05/26 14:54:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12180.json
+2025/05/26 14:54:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48311
+2025/05/26 14:54:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45858
+2025/05/26 14:54:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11940.json
+2025/05/26 14:54:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12240.json
+2025/05/26 14:54:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45567
+2025/05/26 14:54:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_11820.json
+2025/05/26 14:54:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46659
+2025/05/26 14:54:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12480.json
+2025/05/26 14:54:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44904
+2025/05/26 14:54:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12720.json
+2025/05/26 14:54:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46946
+2025/05/26 14:54:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12660.json
+2025/05/26 14:54:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44077
+2025/05/26 14:54:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12060.json
+2025/05/26 14:54:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45756
+2025/05/26 14:54:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12600.json
+2025/05/26 14:54:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47292
+2025/05/26 14:54:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12540.json
+2025/05/26 14:54:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44890
+2025/05/26 14:54:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_13200.json
+2025/05/26 14:54:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 48768
+2025/05/26 14:54:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12780.json
+2025/05/26 14:54:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 42206
+2025/05/26 14:54:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_13260.json
+2025/05/26 14:54:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45875
+2025/05/26 14:54:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44567
+2025/05/26 14:54:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_13080.json
+2025/05/26 14:54:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12960.json
+2025/05/26 14:54:49 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47050
+2025/05/26 14:54:49 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12900.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46510
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_13380.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44909
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_13560.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47426
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_12840.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46134
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_13440.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45251
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_13620.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44862
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_13020.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46140
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_13920.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45234
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_13680.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 42959
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_13140.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45999
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_13800.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 43643
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45629
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_13320.json
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_14160.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45613
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_13980.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45030
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_13740.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 45682
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_14280.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47349
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_14220.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 44774
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 50308
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_13500.json
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_13860.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 46773
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_14100.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 47141
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_14040.json
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 2542
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_14640.json
+2025/05/26 14:54:50 fetch_artifacthub.go:253: No more packages to fetch at offset 14640
+2025/05/26 14:54:50 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 2542
+2025/05/26 14:54:50 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_14460.json
+2025/05/26 14:54:50 fetch_artifacthub.go:253: No more packages to fetch at offset 14460
+2025/05/26 14:54:51 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 2542
+2025/05/26 14:54:51 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_14400.json
+2025/05/26 14:54:51 fetch_artifacthub.go:253: No more packages to fetch at offset 14400
+2025/05/26 14:54:51 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 2542
+2025/05/26 14:54:51 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_14580.json
+2025/05/26 14:54:51 fetch_artifacthub.go:253: No more packages to fetch at offset 14580
+2025/05/26 14:54:51 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 2542
+2025/05/26 14:54:51 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_14700.json
+2025/05/26 14:54:51 fetch_artifacthub.go:253: No more packages to fetch at offset 14700
+2025/05/26 14:54:51 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 2542
+2025/05/26 14:54:51 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_14520.json
+2025/05/26 14:54:51 fetch_artifacthub.go:253: No more packages to fetch at offset 14520
+2025/05/26 14:54:51 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 4598
+2025/05/26 14:54:51 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_14340.json
+2025/05/26 14:54:51 fetch_artifacthub.go:253: No more packages to fetch at offset 14340
+2025/05/26 14:54:51 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 2542
+2025/05/26 14:54:51 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_14820.json
+2025/05/26 14:54:51 fetch_artifacthub.go:253: No more packages to fetch at offset 14820
+2025/05/26 14:54:51 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 2542
+2025/05/26 14:54:51 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_14760.json
+2025/05/26 14:54:51 fetch_artifacthub.go:253: No more packages to fetch at offset 14760
+2025/05/26 14:54:51 fetch_artifacthub.go:353: Received response: Status: 200, Body length: 2542
+2025/05/26 14:54:51 fetch_artifacthub.go:425: Saved raw JSON to package_data/packages_raw_14880.json
+2025/05/26 14:54:51 fetch_artifacthub.go:253: No more packages to fetch at offset 14880

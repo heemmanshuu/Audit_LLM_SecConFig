@@ -62,12 +62,28 @@ The framework is designed for DevOps engineers, security professionals, and plat
 
    # Configure LiteLLM
    touch .env  # Add your LiteLLM credentials here
+   # not really needed right now?
    ```
 
 2. **Data Collection**
    ```bash
    # Fetch and process ArtifactHub data
    go run fetch_artifacthub/fetch_artifacthub.go
+   ```
+   If the above step errors out, create a go.mod file in the repository root
+   ```bash
+   go mod init llm_secconfig
+   ```
+   then, when you try 
+   ```bash
+   go run fetch_artifacthub/fetch_artifacthub.go
+   
+   # it will show you what modules need to be added. 
+   # just run the go get commands it asks you to
+   # remember to cd into fetch_artifactshub before running the go files
+   ```
+   Now run
+   ```bash
    python gather_artifacthub.py
    python get_yamls.py
    python clean_yamls.py
