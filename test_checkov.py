@@ -276,7 +276,7 @@ def run(use_async=False, concurrency=3, mode: Literal["all", "raw", "code", "pri
 
     testset = load_test_data("fetch_artifacthub/ga" \
     "" \
-    "thered/top_1000_split_files.json")
+    "thered/top_1_split_files.json") # using this file since it only makes 3 requests which is the OpenAI rate limit per minute. Switch to another file to test different inputs
     # testset = testset[::-1]
     model = llms.create_llm(llms.get_llm(LLM_NAME))
 
